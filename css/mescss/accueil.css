@@ -52,8 +52,123 @@ body {
     font-weight: bold;
     text-align: center;
 }
-.image3 {
+
+.image2 {
     position: absolute;
     top: 599px;
     right: 20px;
+}
+
+.image3 {
+    position: absolute;
+    top: 811px;
+    right: 0;
+}
+.rect_titre1 {
+    position: absolute;
+    top: 1164px;
+    margin: 0;
+}
+.title1 {
+    position: absolute;
+    top: 1180px;
+    left: 9.42px;
+    right: 95px;
+    font-size: 26px;
+    text-align: center;
+    line-height: 25px;
+}
+.fleche1 {
+    position: absolute;
+    top: 1370px;
+    left: 290px;
+}
+
+.image4 {
+    position: absolute;
+    top: 1465px;
+    right: 0;
+}
+.rect_titre2 {
+    position: absolute;
+    top: 1827px;
+    margin: 0;
+}
+.title2 {
+    position: absolute;
+    top: 1835px;
+    left: 4px;
+    right: 65px;
+    font-size: 26px;
+    text-align: center;
+    line-height: 25px;
+}
+.fleche2 {
+    position: absolute;
+    top: 2033px;
+    left: 290px;
+}
+
+.image5 {
+    position: absolute;
+    top: 2125px;
+    right: 0;
+}
+.rect_titre3 {
+    position: absolute;
+    top: 2491px;
+    margin: 0;
+}
+.title3 {
+    position: absolute;
+    top: 2490px;
+    left: 9px;
+    right: 90px;
+    font-size: 26px;
+    text-align: center;
+    line-height: 25px;
+}
+.fleche3 {
+    position: absolute;
+    top: 2697px;
+    left: 290px;
+}
+
+.fond_footer {
+    position: absolute;
+    top: 2785px;
+    height: 143px;
+    width: 375px;
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom {
+    position: absolute;
+    top: 2785px;
+    left: 19px;
+    color: white;
+    font-size: 12px;
+}
+.mailto p {
+    position: absolute;
+    top: 2785px;
+    left: 225px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.projet {
+    position: absolute;
+    top: 2830px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.mmi_montbe p {
+    position: absolute;
+    top: 2880px;
+    left: 136px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
 }
