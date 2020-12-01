@@ -1,38 +1,50 @@
-.nav-toggle {
-    /*background: red;*/
+.nav-toggle{
     width: 30px;
     height: 30px;
     position: absolute;
     top: 30px;
     right: 30px;
-    z-index: 2;
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 2;
 }
 
 .nav-toggle-bar,
 .nav-toggle-bar::before,
-.nav-toggle-bar::after {
+.nav-toggle-bar::after{
     content: "";
-    background-color: black;
+    background-color: white;
     width: 100%;
     height: 2px;
     position: absolute;
     left: 0;
+    transition: all .4s ease-in-out;
 }
-.nav-toggle-bar::before {
+
+.nav-toggle-bar::before{
     top: -10px;
 }
-.nav-toggle-bar::after {
+
+.nav-toggle-bar::after{
     top: 10px;
 }
 
-/* Menu */
+.menu-open .nav-toggle-bar{
+    transform: rotate(135deg);
+    background-color: black;
+}
 
-.menu {
-    visibility: hidden;
-    background-color: midnightblue;
+.menu-open .nav-toggle-bar::before,
+.menu-open .nav-toggle-bar::after{
+    transform: rotate(90deg);
+    background-color: black;
+    top: 0;
+}
+/*Menu*/
+
+.menu{
+    background-color: #F6F3EA;
     position: fixed;
     top: 0;
     left: 0;
@@ -41,20 +53,60 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translateX(100vw);
-    transition: transform 1s;
+    transform: translateX(200vw);
+    transition: all .4s;
+    transition: all .4s;
+    z-index: 1;
+
+
 }
 .menu-open .menu{
-    visibility: visible;
     transform: translateX(0);
 }
 
-.menu ul  {
-    list-style: none;
-    margin: 0; padding: 0;
-    font-size: 24px;
+.menu-open,
+.menu-open body{
+    overflow: hidden;
 }
 
-.menu {
-    color: white;
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    text-transform: uppercase;
+
 }
+
+.menu li{
+    margin-bottom: 30px;
+    transform: translateX(30px);
+    opacity: 0;
+    transition: all .5s ease;
+    text-align: center;
+    margin-right: 55px;
+}
+
+#trait_dessus{
+    padding-left: 30px;
+    padding-right: 30px ;
+}
+
+.menu a{
+    color: black;
+
+}
+
+.menu-open .menu li{
+    transform: translateX();
+    opacity: 1;
+}
+
+
+
+
+.menu-open .menu li:nth-child(n+1) {transition-delay: .3s}
+.menu-open .menu li:nth-child(n+2) {transition-delay: .35s}
+.menu-open .menu li:nth-child(n+3) {transition-delay: .4s}
+.menu-open .menu li:nth-child(n+4) {transition-delay: .45s}
+.menu-open .menu li:nth-child(n+5) {transition-delay: .5s}
