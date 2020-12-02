@@ -1,0 +1,77 @@
+.fond_header {
+    position: absolute;
+    top: 0;
+    height: 100px;
+    width: 375px;
+    background-color: #048ABF;
+    margin: 0;
+}
+body {
+    margin: 0;
+}
+.logo img {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+    left: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fond_footer {
+    position: absolute;
+    top: 2785px;
+    height: 143px;
+    width: 375px;
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom {
+    position: absolute;
+    top: 2785px;
+    left: 19px;
+    color: white;
+    font-size: 12px;
+}
+.mailto p {
+    position: absolute;
+    top: 2785px;
+    left: 225px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.projet {
+    position: absolute;
+    top: 2830px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.mmi_montbe p {
+    position: absolute;
+    top: 2880px;
+    left: 136px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}

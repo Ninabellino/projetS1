@@ -1,14 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Habibi&display=swap');
 
 body {
     background: white;
-    font-family: 'Habibi', sans-serif;
+    font-family: 'Habibi', serif;
+    font-weight: normal;
     font-size: 16px;
     line-height: 1.6;
     margin: 0 20px;
 }
 
 a {
+    font-family: 'Habibi', serif;
+    font-weight: normal;
     text-decoration: none;
     color: black;
 }
