@@ -330,7 +330,55 @@ a {
     line-height: 25px;
     font-size: 15px;
 }
+.list ul li {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lgd3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
 
+/*Paragraphe 4*/
+.list2 ul li {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.parg5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lgd4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 5*/
+.list3 ul li {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.parg6 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lgd5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
 
 
 

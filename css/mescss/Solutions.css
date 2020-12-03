@@ -139,36 +139,83 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
+.list ul li {
+    position: relative;
+    top: 1950px;
+    margin-right: 20px;
+}
+.anciens-tels img {
+    position: absolute;
+    top: 2270px;
+}
+.lgd3 p {
+    position: absolute;
+    top: 2525px;
+    margin-left: 130px;
+    color: white;
+}
 
+/*Paragraphe 4*/
+.list2 ul li {
+    position: relative;
+    top: 2270px;
+    margin-right: 20px;
+}
+.parg5 p {
+    position: relative;
+    top: 2260px;
+    margin-left: 38px;
+    margin-right: 20px;
+}
+.firefox img {
+    position: absolute;
+    top: 2980px;
+}
+.lgd4 p {
+    position: absolute;
+    top: 3165px;
+    margin-left: 230px;
+    color: white;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+/*Paragraphe 5*/
+.list3 ul li {
+    position: relative;
+    top: 2500px;
+    margin-right: 20px;
+}
+.parg6 p {
+    position: relative;
+    top: 2490px;
+    margin-left: 38px;
+    margin-right: 20px;
+}
+.ecosia img {
+    position: absolute;
+    top: 3420px;
+}
+.lgd5 p {
+    position: absolute;
+    top: 3715px;
+    margin-left: 190px;;
+}
 
 /*Bouton cliquable*/
 .bouton img {
     position: absolute;
-    top: 4250px;
+    top: 3800px;
     margin-left: 40px;
 }
 .tex-clic1_1 p {
     position: absolute;
-    top: 4245px;
+    top: 3795px;
     color: white;
     text-decoration: underline;
-    margin-left: 128px;
+    margin-left: 108px;
 }
 .tex-clic2_2 p {
     position: absolute;
-    top: 4280px;
+    top: 3830px;
     color: white;
     margin-left: 148px;
 }
@@ -176,7 +223,7 @@ body {
 /*Footer*/
 .fond_footer {
     position: absolute;
-    top: 4385px;
+    top: 3935px;
     height: 143px;
     width: 375px;
     background-color: #010326;
@@ -184,14 +231,14 @@ body {
 }
 .nom_prenom {
     position: absolute;
-    top: 4385px;
+    top: 3935px;
     left: 19px;
     color: white;
     font-size: 12px;
 }
 .mailto p {
     position: absolute;
-    top: 4385px;
+    top: 3935px;
     left: 225px;
     color: white;
     font-size: 12px;
@@ -199,14 +246,14 @@ body {
 }
 .projet {
     position: absolute;
-    top: 4430px;
+    top: 3980px;
     text-align: center;
     color: white;
     font-size: 12px;
 }
 .mmi_montbe p {
     position: absolute;
-    top: 4480px;
+    top: 4030px;
     left: 136px;
     color: white;
     font-size: 12px;
