@@ -529,7 +529,81 @@ a {
 }
 
 
+/*Page Autres porojets*/
 
+/*Paragraphe 1*/
+.txt1 p {
+    line-height: 25px;
+    font-size: 15px;
+}
+
+/*Ligne 1 bande annonce*/
+.her p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.ghost p {
+    line-height: 25px;
+    font-size: 18px;
+}
+
+/*Ligne 2 bande annonce*/
+.blackmirror p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.blackmirror2 p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.htsdo p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.htsdo2 p {
+    line-height: 25px;
+    font-size: 18px;
+}
+
+/*Ligne 3 bande annonce*/
+.searching p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.south-park p {
+    line-height: 25px;
+    font-size: 18px;
+}
+
+/*Ligne 4 bande annonce*/
+.girl-boss p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.eagle-eye p {
+    line-height: 25px;
+    font-size: 18px;
+}
+
+/*Ligne 5 bande annonce*/
+.bladerunner p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.heackers p {
+    line-height: 25px;
+    font-size: 18px;
+}
+
+/*Ligne 6 bande annonce*/
+.the-social p {
+    line-height: 25px;
+    font-size: 18px;
+}
+.the-social2 p {
+    line-height: 25px;
+    font-size: 18px;
+}
 
 
 

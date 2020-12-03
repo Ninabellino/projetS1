@@ -1,0 +1,315 @@
+body {
+    background-color: #F6F3EA;
+}
+/*Header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+.fond_header {
+    position: absolute;
+    top: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #048ABF;
+    margin: 0;
+}
+body {
+    margin: 0;
+    margin-bottom: -15px;
+}
+.logo img {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+    left: 18px;
+}
+.titre_projet p {
+    position: absolute;
+    top: 13px;
+    right: 138px;
+    color: white;
+}
+.titre_projet2 p {
+    position: absolute;
+    top: 50px;
+    right: 131px;
+    color: white;
+}
+
+/*Paragraphe 1*/
+.txt1 p {
+    position: absolute;
+    top: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+/*Ligne 1 bande annonce*/
+.ba1 img {
+    position: absolute;
+    top: 225px;
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ba2 img {
+    position: absolute;
+    top: 225px;
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+
+.her p i {
+    position: absolute;
+    top: 0;
+    text-decoration: underline;
+    margin-left: -15px;
+}
+.her p {
+    position: absolute;
+    top: 430px;
+    margin-left: 49px;
+    text-align: center;
+}
+.ghost p i {
+    position: absolute;
+    top: 0;
+    text-decoration: underline;
+    margin-left: -60px;
+}
+.ghost p {
+    position: absolute;
+    top: 430px;
+    margin-left: 207px;
+    text-align: center;
+}
+
+/*Ligne 2 bande annonce*/
+.ba3 img {
+    position: absolute;
+    top: 554px;
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ba4 img {
+    position: absolute;
+    top: 554px;
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.blackmirror i {
+    position: absolute;
+    top: 790px;
+    text-decoration: underline;
+    margin-left: 46px;
+}
+.blackmirror2 p{
+    position: absolute;
+    text-align: center;
+    top: 800px;
+    margin-left: 55px;
+}
+.htsdo p i {
+    position: absolute;
+    top: 790px;
+    text-decoration: underline;
+    margin-left: 222px;
+}
+.htsdo2 p{
+    position: absolute;
+    text-align: center;
+    top: 830px;
+    margin-left: 251px;
+}
+
+/*Ligne 3 bande annonce*/
+.ba5 img {
+    position: absolute;
+    top: 900px;
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ba6 img {
+    position: absolute;
+    top: 900px;
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.searching p i {
+    position: absolute;
+    top: -55px;
+    text-decoration: underline;
+}
+.searching p {
+    position: absolute;
+    top: 1165px;
+    margin-left: 34px;
+    text-align: center;
+}
+.south-park p i {
+    position: absolute;
+    top: 0;
+    text-decoration: underline;
+    margin-left: -50px;
+}
+.south-park p {
+    position: absolute;
+    top: 1105px;
+    margin-left: 210px;
+    text-align: center;
+}
+
+/*Ligne 4 bande annonce*/
+.ba7 img {
+    position: absolute;
+    top: 1260px;
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ba8 img {
+    position: absolute;
+    top: 1260px;
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+
+.girl-boss p i {
+    position: absolute;
+    top: 0;
+    text-decoration: underline;
+    margin-left: -35px;
+}
+.girl-boss p {
+    position: absolute;
+    top: 1490px;
+    margin-left: 49px;
+    text-align: center;
+}
+.eagle-eye p i {
+    position: absolute;
+    top: 0;
+    text-decoration: underline;
+    margin-left: -60px;
+}
+.eagle-eye p {
+    position: absolute;
+    top: 1490px;
+    margin-left: 207px;
+    text-align: center;
+}
+
+/*Ligne 5 bande annonce*/
+.ba9 img {
+    position: absolute;
+    top: 1625px;
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ba10 img {
+    position: absolute;
+    top: 1625px;
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.bladerunner p i {
+    position: absolute;
+    top: -30px;
+    text-decoration: underline;
+    margin-left: -45px;
+}
+.bladerunner p {
+    position: absolute;
+    top: 1865px;
+    margin-left: 48px;
+    text-align: center;
+}
+.heackers p i {
+    position: absolute;
+    top: 0;
+    text-decoration: underline;
+    margin-left: -35px;
+}
+.heackers p {
+    position: absolute;
+    top: 1835px;
+    margin-left: 234px;
+    text-align: center;
+}
+
+/*Ligne 6 bande annonce*/
+.ba11 img {
+    position: absolute;
+    top: 1975px;
+    margin-left: 115px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.the-social p i {
+    position: absolute;
+    top: 2200px;
+    text-decoration: underline;
+    margin-left: 104px;
+}
+.the-social2 p {
+    position: absolute;
+    top: 2210px;
+    margin-left: 125px;
+    text-align: center;
+}
+
+
+/*Bouton cliquable*/
+.bouton img {
+    position: absolute;
+    top: 2320px;
+    margin-left: 40px;
+}
+.tex-clic-ap1 p {
+    position: absolute;
+    top: 2323px;
+    color: white;
+    text-decoration: underline;
+    margin-left: 151px;
+}
+/*Footer*/
+.fond_footer {
+    position: absolute;
+    top: 2435px;
+    height: 143px;
+    width: 375px;
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom {
+    position: absolute;
+    top: 2435px;
+    left: 19px;
+    color: white;
+    font-size: 12px;
+}
+.mailto p {
+    position: absolute;
+    top: 2435px;
+    left: 225px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.projet {
+    position: absolute;
+    top: 2480px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.mmi_montbe p {
+    position: absolute;
+    top: 2530px;
+    left: 136px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}

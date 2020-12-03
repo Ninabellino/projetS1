@@ -241,11 +241,6 @@ body {
 }
 
 
-
-
-
-
-
 /*Bouton cliquable*/
 .bouton img {
     position: absolute;
@@ -259,6 +254,8 @@ body {
     text-decoration: underline;
     margin-left: 133px;
 }
+
+
 /*Bouton cliquable*/
 .bouton img {
     position: absolute;
@@ -272,8 +269,6 @@ body {
     text-decoration: underline;
     margin-left: 108px;
 }
-
-
 
 /*Footer*/
 .fond_footer {
