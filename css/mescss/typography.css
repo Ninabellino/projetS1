@@ -262,6 +262,74 @@ a {
 }
 
 
+/*Page Solution*/
+
+/*Paragraphe 1*/
+.tit-art p {
+    font-size: 18px;
+}
+.sous-titre3_1 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 25px;
+}
+.inter-titre2_3 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.parg1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.parg2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.parg3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lgd1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 2*/
+.parg4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lgd2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 3*/
+.inter-titre3_3 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.petit-titr p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
 
 
 

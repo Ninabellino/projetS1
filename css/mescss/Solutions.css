@@ -41,152 +41,117 @@ body {
 }
 
 /*Image haut*/
-.terre-img img {
+.rect-bleu {
     position: absolute;
-    top: 60px;
+    background-color: #048ABF;
+    top: 120px;
+    height: 174px;
+    width: 363px;
+    margin-left: 0;
+}
+.img-ter img {
+    top: 110px;
+    position: absolute;
+    margin-left: 6px;
+}
+.iglo img {
+    position: absolute;
+    top: 170px;
+    margin-left: 265px;
 }
 
 /*Paragraphe 1*/
-.titr-art p {
+.tit-art p {
     position: absolute;
-    top: 739px;
+    top: 350px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.sous-titre2 p {
+.sous-titre3_1 p {
     position: absolute;
-    top: 780px;
+    top: 390px;
     margin-left: 20px;
     margin-right: 20px;
     right: 1px;
 }
-.inter-titre2_1 p {
+.inter-titre2_3 p {
     position: absolute;
-    top: 880px;
+    top: 460px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.art-1 p {
+.parg1 p {
     position: absolute;
-    top: 910px;
+    top: 490px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.data-center img {
+.parg2 p {
     position: absolute;
-    top: 1220px;
-}
-.legd1 p{
-    position: absolute;
-    top: 1440px;
-    height: 14px;
-    color: white;
-    right: 10px;
-}
-
-/*Paragraphe 2*/
-.art-2 p {
-    position: absolute;
-    top: 1480px;
+    top: 730px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.ordi_vue img {
-    top: 1700px;
+.parg3 p {
     position: absolute;
-    margin-left: 48px;
-}
-.legd2 p {
-    position: absolute;
-    top: 1820px;
-    margin-left: 210px;
-    color: white;
-}
-.legd3 p {
-    position: absolute;
-    top: 1830px;
-    margin-left: 270px;
-    color: white;
-}
-
-/*Paragraphe 3*/
-.art-3 p {
-    position: absolute;
-    top: 1840px;
+    top: 790px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.inter img {
-    top: 2100px;
-    position: absolute;;
-    width: 100%;
-}
-.legd4 p {
+.mac img {
     position: absolute;
-    top: 2325px;
-    margin-left: 220px;
+    top: 1100px;
 }
-
-/*Paragraphe 4*/
-.inter-titre2_2 p {
+.lgd1 p {
     position: absolute;
-    top: 2350px;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-.art-4 p {
-    position: absolute;
-    top: 2385px;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-.jeunes img {
-    top: 2870px;
-    position: absolute;
-    width: 100%;
-}
-.legd5 p {
-    position: absolute;
-    top: 3020px;
+    top: 1307px;
     margin-left: 90px;
     color: white;
 }
 
-/*Paragraphe 5*/
-.art-5 p {
+/*Paragraphe 2*/
+.parg4 p {
     position: absolute;
-    top: 3055px;
+    top: 1330px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.phone img {
-    top: 3250px;
+.quest img {
     position: absolute;
-    width: 100%;
+    top: 1490px;
 }
-.legd6 p {
+.lgd2 p {
     position: absolute;
-    top: 3578px;
-    margin-left: 160px;
+    top: 1815px;
+    margin-left: 90px;
 }
 
-/*Interview*/
-.t-inter p {
+/*Paragraphe 3*/
+.inter-titre3_3 p {
     position: absolute;
-    top: 3600px;
-    margin-left: 10px;
-    margin-right: 10px;
-    text-align: center;
+    top: 1850px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-.vid-inter img {
-    top: 3745px;
+.petit-titr p {
     position: absolute;
+    top: 1880px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-.play img {
-    top: 3920px;
-    position: absolute;
-    margin-left: 145px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*Bouton cliquable*/
 .bouton img {
