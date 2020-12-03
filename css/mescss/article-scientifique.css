@@ -230,7 +230,15 @@ body {
     margin-left: 255px;
 }
 
-
+/*Lien article*/
+.lien-art p {
+    position: absolute;
+    top: 3800px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
 
 
 
