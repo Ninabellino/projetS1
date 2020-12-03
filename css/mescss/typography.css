@@ -15,3 +15,154 @@ a {
     text-decoration: none;
     color: black;
 }
+
+.titre_projet p {
+    font-size: 20px;
+}
+.titre_projet2 p {
+    font-size: 12px;
+}
+.intro {
+    font-size: 18px;
+}
+.intro2 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.title1 {
+    font-size: 26px;
+}
+.title2 {
+    font-size: 26px;
+}
+.title3 {
+    font-size: 26px;
+}
+
+/*Page Code poursuite*/
+
+/*Paragraphe 1*/
+.leg1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.titre_ben p{
+    font-size: 18px;
+}
+.sous-titre1 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 25px;
+}
+.inter-titre1 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.texte1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.leg2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 2*/
+.texte2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.leg3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 3*/
+.inter-titre2 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.texte3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.leg4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.leg4_2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 4*/
+.texte4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.leg5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Bande annonce*/
+.bande_annonce p {
+    font-size: 18px;
+}
+
+/*Galerie*/
+.galerie p {
+    font-size: 18px;
+}
+
+/*Bouton cliquable*/
+.tex-clic p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+.tex-clic2 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+/*Footer*/
+.nom_prenom {
+    font-size: 12px;
+}
+.mailto p {
+    font-size: 12px;
+}
+.projet {
+    font-size: 12px;
+}
+.mmi_montbe p {
+    font-size: 12px;
+}

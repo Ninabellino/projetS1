@@ -1,3 +1,11 @@
+/*Header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
 .fond_header {
     position: absolute;
     top: 0;
@@ -8,6 +16,7 @@
 }
 body {
     margin: 0;
+    margin-bottom: -15px;
 }
 .logo img {
     z-index: 1;
@@ -19,17 +28,16 @@ body {
     position: absolute;
     top: 13px;
     right: 138px;
-    font-size: 20px;
     color: white;
 }
 .titre_projet2 p {
     position: absolute;
     top: 50px;
     right: 131px;
-    font-size: 12px;
     color: white;
 }
 
+/*Images du haut*/
 .image1 img{
     position: absolute;
     top: 100px;
@@ -37,7 +45,6 @@ body {
 
 .intro {
     position: absolute;
-    font-size: 18px;
     color: white;
     top: 436px;
     right: 18px;
@@ -45,11 +52,9 @@ body {
 }
 .intro2 {
     position: absolute;
-    font-size: 14px;
     color: white;
     top: 533px;
     right: 18px;
-    font-weight: bold;
     text-align: center;
 }
 
@@ -59,6 +64,7 @@ body {
     right: 20px;
 }
 
+/*Article 1*/
 .image3 {
     position: absolute;
     top: 811px;
@@ -74,7 +80,6 @@ body {
     top: 1180px;
     left: 9.42px;
     right: 95px;
-    font-size: 26px;
     text-align: center;
     line-height: 25px;
 }
@@ -84,6 +89,7 @@ body {
     left: 290px;
 }
 
+/*Article 2*/
 .image4 {
     position: absolute;
     top: 1465px;
@@ -99,7 +105,6 @@ body {
     top: 1835px;
     left: 4px;
     right: 65px;
-    font-size: 26px;
     text-align: center;
     line-height: 25px;
 }
@@ -109,10 +114,12 @@ body {
     left: 290px;
 }
 
+/*Article3*/
 .image5 {
     position: absolute;
     top: 2125px;
     right: 0;
+    margin-bottom: -15px;
 }
 .rect_titre3 {
     position: absolute;
@@ -124,7 +131,6 @@ body {
     top: 2490px;
     left: 9px;
     right: 90px;
-    font-size: 26px;
     text-align: center;
     line-height: 25px;
 }
@@ -134,6 +140,7 @@ body {
     left: 290px;
 }
 
+/*Footer*/
 .fond_footer {
     position: absolute;
     top: 2785px;
@@ -147,14 +154,12 @@ body {
     top: 2785px;
     left: 19px;
     color: white;
-    font-size: 12px;
 }
 .mailto p {
     position: absolute;
     top: 2785px;
     left: 225px;
     color: white;
-    font-size: 12px;
     text-decoration: underline;
 }
 .projet {
@@ -162,13 +167,11 @@ body {
     top: 2830px;
     text-align: center;
     color: white;
-    font-size: 12px;
 }
 .mmi_montbe p {
     position: absolute;
     top: 2880px;
     left: 136px;
     color: white;
-    font-size: 12px;
     text-decoration: underline;
 }

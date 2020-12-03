@@ -1,13 +1,25 @@
+body {
+    background-color: #F6F3EA;
+}
+/*Header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
 .fond_header {
     position: absolute;
     top: 0;
     height: 100px;
-    width: 375px;
+    width: 100%;
     background-color: #048ABF;
     margin: 0;
 }
 body {
     margin: 0;
+    margin-bottom: -15px;
 }
 .logo img {
     z-index: 1;
@@ -15,31 +27,312 @@ body {
     top: 10px;
     left: 18px;
 }
+.titre_projet p {
+    position: absolute;
+    top: 13px;
+    right: 138px;
+    color: white;
+}
+.titre_projet2 p {
+    position: absolute;
+    top: 50px;
+    right: 131px;
+    color: white;
+}
 
+/*Images du haut*/
+.haut-image img{
+    position: absolute;
+    top: 60px;
+}
+.rect-marine {
+    position: absolute;
+    top: 401px;
+    height: 145px;
+    width: 100%;
+    background-color: #010326;
+    margin: 0;
+}
+.haut-image2 img{
+    position: absolute;
+    top: 293px;
+    left: 20px;
+}
+.leg1 p{
+    position: absolute;
+    top: 516px;
+    height: 14px;
+    color: white;
+    left: 166px;
+}
 
+/*Paragraphe 1*/
+.titre_ben p {
+    position: absolute;
+    top: 540px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sous-titre1 p{
+    position: absolute;
+    top: 579px;
+    margin-left: 20px;
+    margin-right: 20px;
+    right: 1px;
+}
+.inter-titre1 p {
+    position: absolute;
+    top: 685px;
+    margin-left: 20px;
+    margin-right: 20px;
+    right: 2px;
+}
+.texte1 p {
+    position: absolute;
+    top: 765px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img3 img{
+    position: absolute;
+    top: 1040px;
+    box-shadow: #777 0 15px 10px -8px;
+}
+.leg2 p{
+    position: absolute;
+    top: 1280px;
+    height: 14px;
+    color: white;
+    right: 10px;
+}
 
+/*Paragraphe 2*/
+.texte2 p {
+    position: absolute;
+    top: 1310px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img4 img{
+    position: absolute;
+    top: 1710px;
+    box-shadow: #777 0 15px 10px -8px;
+}
+.leg3 p{
+    position: absolute;
+    top: 1950px;
+    height: 14px;
+    color: white;
+    right: 10px;
+}
 
+/*Paragraphe 3*/
+.inter-titre2 p {
+    position: absolute;
+    top: 1985px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.texte3 p {
+    position: absolute;
+    top: 2020px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img5 img{
+    position: absolute;
+    top: 2520px;
+    box-shadow: #777 0 15px 10px -8px;
+}
+.leg4 p{
+    position: absolute;
+    top: 2750px;
+    height: 14px;
+    color: white;
+    right: 10px;
+}
+.leg4_2 p{
+    position: absolute;
+    top: 2763px;
+    height: 14px;
+    color: white;
+    right: 10px;
+}
 
+/* Paragraphe 4*/
+.texte4 p {
+    position: absolute;
+    top: 2790px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img6 img{
+    position: absolute;
+    top: 3040px;
+    box-shadow: #777 0 15px 10px -8px;
+}
+.leg5 p{
+    position: absolute;
+    top: 3280px;
+    height: 14px;
+    color: white;
+    right: 10px;
+}
 
+/*Bande annonce*/
+.bande_annonce p {
+    position: absolute;
+    top: 3330px;
+    text-align: center;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+.video {
+    position: absolute;
+    top: 3400px;
+    width: 100%;
+}
 
+/*Galerie*/
+.galerie p {
+    position: absolute;
+    top: 3635px;
+    text-align: center;
+    margin-left: 150px;
+}
+.back_galerie {
+    position: absolute;
+    top: 3700px;
+    height: 500px;
+    width: 100%;
+    background-color: white;
+    margin: 0;
+}
 
+/*Carousel*/
+.carousel{
+    top: 3700px;
+    color: black;
+    padding:20px 0 ;
+    position: absolute;
+    width: 100%;
+}
 
+.carousel-items{
+    list-style: none;
+    padding: 20px 0;
+    display: flex;
+    overflow: scroll;
+    scroll-snap-type: x mandatory;
+    margin-left: 17px;
+}
 
+/*Image 1*/
+.imag_1 img{
+    margin-right: 35px;
+    margin-left: 45px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_1 p {
+    text-align: center
+}
 
+/*Image 2*/
+.imag_2 img{
+    margin-right: 35px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_2 p {
+    margin-left: 70px;
+}
 
+/*Image 3*/
+.imag_3 img{
+    margin-right: 35px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_3 p {
+    margin-left: 110px;
+}
 
+/*Image 4*/
+.imag_4 img{
+    margin-right: 35px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_4 p{
+    margin-left: 100px;
+}
 
+/*Image 5*/
+.imag_5 img{
+    margin-right: 35px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_5 p {
+    margin-left: 35px;
+}
 
+/*Image 6*/
+.imag_6 img{
+    margin-right: 35px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_6 p{
+    margin-left: 80px;
+}
 
+/*Image */
+.imag_7 img{
+    margin-right: 35px;
+    box-shadow: #000 0px 15px 20px -8px;
+}
+.imag_7 p{
+    margin-left: 95px;
+}
 
+li.carousel-items{
+    flex: 1 0 320px;
+    margin-right:20px;
+    scroll-snap-align:center;
+}
 
+::-webkit-scrollbar{
+    height: 2px;
+}
 
+::-webkit-scrollbar-track{
+    background-color:white;
+}
 
+::-webkit-scrollbar-thumb{
+    background-color:white;
+}
 
+/*Bouton cliquable*/
+.bouton img {
+    position: absolute;
+    top: 4250px;
+    margin-left: 40px;
+}
+.tex-clic p {
+    position: absolute;
+    top: 4245px;
+    color: white;
+    text-decoration: underline;
+    margin-left: 108px;
+}
+.tex-clic2 p {
+    position: absolute;
+    top: 4280px;
+    color: white;
+    margin-left: 148px;
+}
 
+/*Footer*/
 .fond_footer {
     position: absolute;
-    top: 2785px;
+    top: 4385px;
     height: 143px;
     width: 375px;
     background-color: #010326;
@@ -47,14 +340,14 @@ body {
 }
 .nom_prenom {
     position: absolute;
-    top: 2785px;
+    top: 4385px;
     left: 19px;
     color: white;
     font-size: 12px;
 }
 .mailto p {
     position: absolute;
-    top: 2785px;
+    top: 4385px;
     left: 225px;
     color: white;
     font-size: 12px;
@@ -62,14 +355,14 @@ body {
 }
 .projet {
     position: absolute;
-    top: 2830px;
+    top: 4430px;
     text-align: center;
     color: white;
     font-size: 12px;
 }
 .mmi_montbe p {
     position: absolute;
-    top: 2880px;
+    top: 4480px;
     left: 136px;
     color: white;
     font-size: 12px;
