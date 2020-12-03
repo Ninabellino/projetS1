@@ -231,7 +231,7 @@ body {
 .imag_1 img{
     margin-right: 35px;
     margin-left: 45px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_1 p {
     text-align: center
@@ -240,7 +240,7 @@ body {
 /*Image 2*/
 .imag_2 img{
     margin-right: 35px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_2 p {
     margin-left: 70px;
@@ -249,7 +249,7 @@ body {
 /*Image 3*/
 .imag_3 img{
     margin-right: 35px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_3 p {
     margin-left: 110px;
@@ -258,7 +258,7 @@ body {
 /*Image 4*/
 .imag_4 img{
     margin-right: 35px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_4 p{
     margin-left: 100px;
@@ -267,7 +267,7 @@ body {
 /*Image 5*/
 .imag_5 img{
     margin-right: 35px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_5 p {
     margin-left: 35px;
@@ -276,7 +276,7 @@ body {
 /*Image 6*/
 .imag_6 img{
     margin-right: 35px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_6 p{
     margin-left: 80px;
@@ -285,7 +285,7 @@ body {
 /*Image */
 .imag_7 img{
     margin-right: 35px;
-    box-shadow: #000 0px 15px 20px -8px;
+    box-shadow: #000 0 15px 20px -8px;
 }
 .imag_7 p{
     margin-left: 95px;
