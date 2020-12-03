@@ -1,0 +1,158 @@
+body {
+    background-color: #F6F3EA;
+}
+/*Header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+.fond_header {
+    position: absolute;
+    top: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #048ABF;
+    margin: 0;
+}
+body {
+    margin: 0;
+    margin-bottom: -15px;
+}
+.logo img {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+    left: 18px;
+}
+.titre_projet p {
+    position: absolute;
+    top: 13px;
+    right: 138px;
+    color: white;
+}
+.titre_projet2 p {
+    position: absolute;
+    top: 50px;
+    right: 131px;
+    color: white;
+}
+
+/*Haut image*/
+.class img {
+    position: absolute;
+    top: 100px;
+    opacity: 46%;
+}
+.present p {
+    position: absolute;
+    top: 320px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*Deuxième partie*/
+.machine img {
+    position: absolute;
+    top: 620px;
+    opacity: 46%;
+}
+.contact-moi p {
+    position: absolute;
+    top: 600px;
+    color: white;
+    margin-left: 69px;
+    text-align: center;
+}
+.edit img {
+    position: absolute;
+    top: 720px;
+    margin-left: 156.12px;
+    color: white;
+}
+
+/*Formulaire de contact*/
+.rect-violet {
+    position: absolute;
+    top: 900px;
+    height: 262px;
+    width: 138px;
+    margin-left: 18px;
+    background-color: #6356B5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Bouton cliquable*/
+.bouton img {
+    position: absolute;
+    top: 2320px;
+    margin-left: 40px;
+}
+.tex-clic-ac1 p {
+    position: absolute;
+    top: 2327px;
+    color: white;
+    text-decoration: underline;
+    margin-left: 148px;
+}
+/*Footer*/
+.fond_footer {
+    position: absolute;
+    top: 2435px;
+    height: 143px;
+    width: 375px;
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom {
+    position: absolute;
+    top: 2435px;
+    left: 19px;
+    color: white;
+    font-size: 12px;
+}
+.mailto p {
+    position: absolute;
+    top: 2435px;
+    left: 225px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.projet {
+    position: absolute;
+    top: 2480px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.mmi_montbe p {
+    position: absolute;
+    top: 2530px;
+    left: 136px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}

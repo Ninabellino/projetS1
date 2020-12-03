@@ -607,8 +607,19 @@ a {
 
 
 
+/*À propos*/
 
+/*Haut*/
+.present p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 15px;
+}
 
+/*Deuxième partie*/
+.contact-moi p {
+    font-size: 40px;
+}
 
 
 
