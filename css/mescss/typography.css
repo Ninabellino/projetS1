@@ -215,7 +215,51 @@ a {
     line-height: 25px;
 }
 
+/*Paragraphe 4*/
+.art-4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.legd5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
 
+/*Paragraphe 5*/
+.art-5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.legd6 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Interview*/
+.t-inter p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+/*Bouton cliquable*/
+.tex-clic1_1 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+.tex-clic2_2 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 12px;
+}
 
 
 

@@ -134,7 +134,80 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
+.art-4 p {
+    position: absolute;
+    top: 2385px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.jeunes img {
+    top: 2870px;
+    position: absolute;
+    margin-left: -50px;
+}
+.legd5 p {
+    position: absolute;
+    top: 3020px;
+    margin-left: 90px;
+    color: white;
+}
 
+/*Paragraphe 5*/
+.art-5 p {
+    position: absolute;
+    top: 3055px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.phone img {
+    top: 3200px;
+    position: absolute;
+    margin-left: -155px;
+}
+.legd6 p {
+    position: absolute;
+    top: 3515px;
+    margin-left: 160px;
+}
+
+/*Interview*/
+.t-inter p {
+    position: absolute;
+    top: 3550px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.vid-inter img {
+    top: 3700px;
+    position: absolute;
+    margin-left: -140px;
+}
+.play img {
+    top: 3900px;
+    position: absolute;
+    margin-left: 145px;
+}
+
+/*Bouton cliquable*/
+.bouton img {
+    position: absolute;
+    top: 4250px;
+    margin-left: 40px;
+}
+.tex-clic1_1 p {
+    position: absolute;
+    top: 4245px;
+    color: white;
+    text-decoration: underline;
+    margin-left: 108px;
+}
+.tex-clic2_2 p {
+    position: absolute;
+    top: 4280px;
+    color: white;
+    margin-left: 148px;
+}
 
 
 
