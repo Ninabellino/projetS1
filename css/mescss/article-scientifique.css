@@ -1,0 +1,308 @@
+body {
+    background-color: #F6F3EA;
+}
+/*Header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+.fond_header {
+    position: absolute;
+    top: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #048ABF;
+    margin: 0;
+}
+body {
+    margin: 0;
+    margin-bottom: -15px;
+}
+.logo img {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+    left: 18px;
+}
+.titre_projet p {
+    position: absolute;
+    top: 13px;
+    right: 138px;
+    color: white;
+}
+.titre_projet2 p {
+    position: absolute;
+    top: 50px;
+    right: 131px;
+    color: white;
+}
+
+/*Image haut*/
+.teletravail img {
+    top: 100px;
+    position: absolute;
+}
+
+/*Paragraphe 1*/
+.tt1 p {
+    position: absolute;
+    top: 524px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl1 p {
+    position: absolute;
+    top: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.table img {
+    top: 810px;
+    position: absolute;
+}
+.lg1 p {
+    position: absolute;
+    top: 1030px;
+    margin-left: 218px;
+    color: white;
+}
+
+/*Paragraphe 2*/
+.artcl2 p {
+    position: absolute;
+    top: 1060px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.violet1 {
+    position: absolute;
+    background-color: #6356B5;
+    top: 1073px;
+    height: 27px;
+    width: 107px;
+    margin-left: 0;
+    opacity: 44%;
+}
+.violet2 {
+    position: absolute;
+    background-color: #6356B5;
+    top: 1148px;
+    height: 27px;
+    width: 298px;
+    margin-left: 77px;
+    opacity: 44%;
+}
+.violet3 {
+    position: absolute;
+    background-color: #6356B5;
+    top: 1323px;
+    height: 27px;
+    width: 206px;
+    margin-left: 0;
+    opacity: 44%;
+}
+.carte img {
+    top: 1600px;
+    position: absolute;
+}
+.lg2 p {
+    position: absolute;
+    top: 1830px;
+    margin-left: 233px;
+    color: white;
+}
+
+/*Paragraphe 3*/
+.inter-titre-as1 p {
+    position: absolute;
+    top: 1850px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl3 p {
+    position: absolute;
+    top: 1880px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.inter-titre-as2 p {
+    position: absolute;
+    top: 2010px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl4 p {
+    position: absolute;
+    top: 2065px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bouchon img {
+    top: 2255px;
+    position: absolute;
+}
+.lg3 p {
+    position: absolute;
+    top: 2500px;
+    margin-left: 152px;
+    color: white;
+}
+
+/*Paragraphe 4*/
+.inter-titre-as3 p {
+    position: absolute;
+    top: 2530px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl5 p {
+    position: absolute;
+    top: 2560px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl6 p {
+    position: absolute;
+    top: 2645px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.billet img {
+    top: 2880px;
+    position: absolute;
+}
+.lg4 p {
+    position: absolute;
+    top: 3115px;
+    margin-left: 125px;
+    color: white;
+}
+
+/*Paragraphe 5*/
+.inter-titre-as4 p {
+    position: absolute;
+    top: 3150px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl7 p {
+    position: absolute;
+    top: 3205px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.inter-titre-as5 p {
+    position: absolute;
+    top: 3360px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.artcl8 p {
+    position: absolute;
+    top: 3415px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nom-auteur p {
+    position: absolute;
+    top: 3500px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Dernière image */
+.ademe img {
+    top: 3550px;
+    position: absolute;
+    margin-left: 59px;
+}
+.lg5 p {
+    position: absolute;
+    top: 3770px;
+    margin-left: 63px;
+}
+.lg5-2 p {
+    position: absolute;
+    top: 3783px;
+    margin-left: 255px;
+}
+
+
+
+
+
+
+
+
+
+/*Bouton cliquable*/
+.bouton img {
+    position: absolute;
+    top: 3800px;
+    margin-left: 40px;
+}
+.tex-clic-as1 p {
+    position: absolute;
+    top: 3903px;
+    color: white;
+    text-decoration: underline;
+    margin-left: 133px;
+}
+/*Bouton cliquable*/
+.bouton img {
+    position: absolute;
+    top: 3900px;
+    margin-left: 40px;
+}
+.tex-clic1_1 p {
+    position: absolute;
+    top: 3895px;
+    color: white;
+    text-decoration: underline;
+    margin-left: 108px;
+}
+
+
+
+/*Footer*/
+.fond_footer {
+    position: absolute;
+    top: 4035px;
+    height: 143px;
+    width: 375px;
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom {
+    position: absolute;
+    top: 4035px;
+    left: 19px;
+    color: white;
+    font-size: 12px;
+}
+.mailto p {
+    position: absolute;
+    top: 4035px;
+    left: 225px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.projet {
+    position: absolute;
+    top: 4080px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.mmi_montbe p {
+    position: absolute;
+    top: 4130px;
+    left: 136px;
+    color: white;
+    font-size: 12px;
+    text-decoration: underline;
+}

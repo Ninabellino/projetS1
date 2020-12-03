@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Habibi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body {
     background: white;
@@ -379,6 +380,160 @@ a {
     font-weight: normal;
     font-size: 9px;
 }
+
+/*Bouton cliquable*/
+.tex-clic-s1 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+.tex-clic-s2 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+/*Page Article Scientifique*/
+
+/*Paragraphe 1*/
+.tt1 p {
+    font-size: 18px;
+}
+.artcl1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lg1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 2*/
+.artcl2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lg2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 3*/
+.inter-titre-as1 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.artcl3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.inter-titre-as2 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.artcl4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lg3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 4*/
+.inter-titre-as3 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.artcl5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.artcl6 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.lg4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 4*/
+.inter-titre-as4 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.artcl7 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.inter-titre-as5 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.artcl8 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.nom-auteur p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.lg5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.lg5-2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+/*Bouton cliquable*/
+.tex-clic-as1 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
 
 
 
