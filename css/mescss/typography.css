@@ -148,6 +148,81 @@ a {
 }
 
 
+/*Page Pollution*/
+
+/*Paragraphe 1*/
+.titr-art p {
+    font-size: 18px;
+}
+.sous-titre2 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 25px;
+}
+.inter-titre2_1 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.art-1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.legd1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 2*/
+.art-2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.legd2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.legd3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+
+/*Paragraphe 3*/
+.art-3 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.legd4 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.inter-titre2_2 p {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+
+
+
+
+
+
+
+
 
 
 

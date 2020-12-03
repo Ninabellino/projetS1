@@ -46,8 +46,94 @@ body {
     top: 60px;
 }
 
+/*Paragraphe 1*/
+.titr-art p {
+    position: absolute;
+    top: 739px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sous-titre2 p {
+    position: absolute;
+    top: 780px;
+    margin-left: 20px;
+    margin-right: 20px;
+    right: 1px;
+}
+.inter-titre2_1 p {
+    position: absolute;
+    top: 880px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.art-1 p {
+    position: absolute;
+    top: 910px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.data-center img {
+    position: absolute;
+    top: 1220px;
+}
+.legd1 p{
+    position: absolute;
+    top: 1440px;
+    height: 14px;
+    color: white;
+    right: 10px;
+}
 
+/*Paragraphe 2*/
+.art-2 p {
+    position: absolute;
+    top: 1480px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ordi_vue img {
+    top: 1700px;
+    position: absolute;
+    margin-left: 48px;
+}
+.legd2 p {
+    position: absolute;
+    top: 1820px;
+    margin-left: 210px;
+    color: white;
+}
+.legd3 p {
+    position: absolute;
+    top: 1830px;
+    margin-left: 270px;
+    color: white;
+}
 
+/*Paragraphe 3*/
+.art-3 p {
+    position: absolute;
+    top: 1840px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.inter img {
+    top: 2100px;
+    position: absolute;
+    margin-left: -20px;
+}
+.legd4 p {
+    position: absolute;
+    top: 2325px;
+    margin-left: 220px;
+}
+
+/*Paragraphe 4*/
+.inter-titre2_2 p {
+    position: absolute;
+    top: 2350px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 
 
