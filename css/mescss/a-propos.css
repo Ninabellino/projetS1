@@ -61,7 +61,7 @@ body {
 }
 .contact-moi p {
     position: absolute;
-    top: 600px;
+    top: 630px;
     color: white;
     margin-left: 69px;
     text-align: center;
@@ -146,24 +146,10 @@ body {
 
 
 
-
-/*Bouton cliquable*/
-.bouton img {
-    position: absolute;
-    top: 2320px;
-    margin-left: 40px;
-}
-.tex-clic-ac1 p {
-    position: absolute;
-    top: 2327px;
-    color: white;
-    text-decoration: underline;
-    margin-left: 148px;
-}
 /*Footer*/
 .fond_footer {
     position: absolute;
-    top: 2435px;
+    top: 1745px;
     height: 143px;
     width: 375px;
     background-color: #010326;
@@ -171,14 +157,14 @@ body {
 }
 .nom_prenom {
     position: absolute;
-    top: 2435px;
+    top: 1745px;
     left: 19px;
     color: white;
     font-size: 12px;
 }
 .mailto p {
     position: absolute;
-    top: 2435px;
+    top: 1745px;
     left: 225px;
     color: white;
     font-size: 12px;
@@ -186,14 +172,14 @@ body {
 }
 .projet {
     position: absolute;
-    top: 2480px;
+    top: 1790px;
     text-align: center;
     color: white;
     font-size: 12px;
 }
 .mmi_montbe p {
     position: absolute;
-    top: 2530px;
+    top: 1840px;
     left: 136px;
     color: white;
     font-size: 12px;
