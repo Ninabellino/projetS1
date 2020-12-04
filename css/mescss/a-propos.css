@@ -82,7 +82,7 @@ body {
 }
 .wrap {
     position: absolute;
-    top: 1350px;
+    top: 1360px;
     transform: translateY(-50%);
     width: 100%;
     padding: 20px;
@@ -136,20 +136,10 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
 /*Footer*/
 .fond_footer {
     position: absolute;
-    top: 1745px;
+    top: 1735px;
     height: 143px;
     width: 375px;
     background-color: #010326;
