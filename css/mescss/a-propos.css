@@ -74,22 +74,65 @@ body {
 }
 
 /*Formulaire de contact*/
-.rect-violet {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.wrap {
     position: absolute;
-    top: 900px;
-    height: 262px;
-    width: 138px;
-    margin-left: 18px;
-    background-color: #6356B5;
+    top: 1350px;
+    transform: translateY(-50%);
+    width: 100%;
+    padding: 20px;
+}
+.contact-form {
+    max-width: 375px;
+    margin: 0;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgba(0,0,0,0.13);
+}
+.input-fields {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4%;
+}
+.input-fields, .msg {
+    width: 90%;
+}
+.input-fields .input, .msg textarea {
+    margin: 10px 0;
+    background: transparent;
+    border: 0;
+    border-bottom: 2px solid black;
+    padding: 10%;
+    color: black;
+    width: 100%;
+}
+.msg textarea {
+    height: 225px;
 }
 
+::-webkit-input-placeholder{
+    color: black;
+}
+::-moz-input-placeholder{
+    color: black;
+}
+::-ms-input-placeholder{
+    color: black;
+}
 
-
-
-
-
-
-
+.btn {
+    background: #010326;
+    text-align: center;
+    padding: 15px;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+}
 
 
 
