@@ -40,172 +40,173 @@ body {
     color: white;
 }
 
-/*Image haut*/
-.terre-img img {
+/*Partie 1*/
+.part1 .terre-img img {
     position: absolute;
     top: 60px;
 }
-
-/*Paragraphe 1*/
-.titr-art p {
+.part1 h1 {
     position: absolute;
     top: 739px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.sous-titre2 p {
+.part1 .sous-titre2 p {
     position: absolute;
     top: 780px;
     margin-left: 20px;
     margin-right: 20px;
     right: 1px;
 }
-.inter-titre2_1 p {
+.part1 .inter-titre2_1 p {
     position: absolute;
     top: 880px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.art-1 p {
+.part1 .art-1 p {
     position: absolute;
     top: 910px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.data-center img {
+
+/*Partie 2*/
+.part2 .data-center img {
     position: absolute;
     top: 1220px;
 }
-.legd1 p{
+.part2 .legd1 p{
     position: absolute;
     top: 1440px;
     height: 14px;
     color: white;
     right: 10px;
 }
-
-/*Paragraphe 2*/
-.art-2 p {
+.part2 .art-2 {
     position: absolute;
     top: 1480px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.ordi_vue img {
+.part2 .ordi_vue img {
     top: 1700px;
     position: absolute;
     margin-left: 48px;
 }
-.legd2 p {
+.part2 .legd2 p {
     position: absolute;
     top: 1820px;
     margin-left: 210px;
     color: white;
 }
-.legd3 p {
+.part2 .legd3 p {
     position: absolute;
     top: 1830px;
     margin-left: 270px;
     color: white;
 }
-
-/*Paragraphe 3*/
-.art-3 p {
+.part2 .art-3 {
     position: absolute;
     top: 1840px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.inter img {
+
+/*Paragraphe 3*/
+.part3 .inter img {
     top: 2100px;
     position: absolute;;
     width: 100%;
 }
-.legd4 p {
+.part3 .legd4 {
     position: absolute;
     top: 2325px;
     margin-left: 220px;
 }
-
-/*Paragraphe 4*/
-.inter-titre2_2 p {
+.part3 .inter-titre2_2 {
     position: absolute;
     top: 2350px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.art-4 p {
+.part3 .art-4 {
     position: absolute;
     top: 2385px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.jeunes img {
+
+
+/*Paragraphe 4*/
+
+.part4 .jeunes img {
     top: 2870px;
     position: absolute;
     width: 100%;
 }
-.legd5 p {
-    position: absolute;
-    top: 3020px;
-    margin-left: 90px;
+.part4 .legd5 {
+    position: relative;
+    top: 3030px;
+    margin-left: 130px;
     color: white;
 }
-
-/*Paragraphe 5*/
-.art-5 p {
+.part4 .art-5 {
     position: absolute;
     top: 3055px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.phone img {
+.part4 .phone img {
     top: 3250px;
     position: absolute;
     width: 100%;
 }
-.legd6 p {
+.part4 .legd6 {
     position: absolute;
-    top: 3578px;
+    top: 3568px;
     margin-left: 160px;
 }
 
 /*Interview*/
-.t-inter p {
+.part5 .t-inter {
     position: absolute;
-    top: 3600px;
+    top: 3620px;
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
 }
-.vid-inter img {
+.part5 .vid-inter img {
     top: 3745px;
     position: absolute;
 }
-.play img {
+.part5 .play img {
     top: 3920px;
     position: absolute;
     margin-left: 145px;
 }
 
 /*Bouton cliquable*/
-.bouton img {
+.bbt {
+    background-color: #010326;
     position: absolute;
+    height: 72px;
+    width: 296px;
+    border-radius: 50px;
     top: 4250px;
     margin-left: 40px;
 }
-.tex-clic1_1 p {
-    position: absolute;
-    top: 4245px;
+.bbt .tex-clic1_1 p {
+    position: relative;
     color: white;
     text-decoration: underline;
-    margin-left: 138px;
+    margin-left: 100px;
 }
-.tex-clic2_2 p {
-    position: absolute;
-    top: 4280px;
+.bbt .tex-clic2_2 p {
+    position: relative;
+    top: -20px;
     color: white;
-    margin-left: 154px;
+    margin-left: 115px;
 }
 
 /*Footer*/

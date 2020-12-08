@@ -320,18 +320,17 @@ li.carousel-items{
     top: 4250px;
     margin-left: 40px;
 }
-.tex-clic p {
-    position: absolute;
-    top: 4245px;
+.bouton .tex-clic p {
+    position: relative;
     color: white;
     text-decoration: underline;
-    margin-left: 108px;
+    margin-left: 75px;
 }
-.tex-clic2 p {
-    position: absolute;
-    top: 4280px;
+.bouton .tex-clic2 p {
+    position: relative;
     color: white;
-    margin-left: 148px;
+    margin-left: 115px;
+    top: -20px;
 }
 
 /*Footer*/

@@ -147,12 +147,12 @@ a {
 }
 
 /*Bouton cliquable*/
-.tex-clic p {
+.bouton .tex-clic p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 18px;
 }
-.tex-clic2 p {
+.bouton .tex-clic2 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 12px;
@@ -162,98 +162,98 @@ a {
 /*Page Pollution*/
 
 /*Paragraphe 1*/
-.titr-art p {
+.part1 h1 {
+    font-weight: normal;
     font-size: 18px;
 }
-.sous-titre2 p {
+.part1 .sous-titre2 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 13px;
     line-height: 25px;
 }
-.inter-titre2_1 p {
+.part1 .inter-titre2_1 p {
     font-family: 'Roboto', serif;
     font-weight: bold;
     font-size: 15px;
     line-height: 25px;
 }
-.art-1 p{
+.part1 .art-1 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
-}
-.legd1 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    font-size: 9px;
 }
 
 /*Paragraphe 2*/
-.art-2 p{
+.part2 .legd1 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.part2 .art-2 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.legd2 p{
+.part2 .legd2 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
-.legd3 p{
+.part2 .legd3 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
+}
+.part2 .art-3 {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
 }
 
-/*Paragraphe 3*/
-.art-3 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.legd4 p{
+/*Partie 3*/
+
+.part3 .legd4 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
-.inter-titre2_2 p {
+.part3 .inter-titre2_2 {
     font-family: 'Roboto', serif;
     font-weight: bold;
     font-size: 15px;
     line-height: 25px;
 }
-
-/*Paragraphe 4*/
-.art-4 p{
+.part3 .art-4 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.legd5 p{
+
+/*Paragraphe 4*/
+.part4 .legd5 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
-
-/*Paragraphe 5*/
-.art-5 p{
+.part4 .art-5 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.legd6 p{
+.part4 .legd6 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
 
 /*Interview*/
-.t-inter p {
+.part5 .t-inter {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
@@ -261,12 +261,12 @@ a {
 }
 
 /*Bouton cliquable*/
-.tex-clic1_1 p {
+.bbt .tex-clic1_1 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 18px;
 }
-.tex-clic2_2 p {
+.bbt .tex-clic2_2 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 12px;
