@@ -53,125 +53,126 @@ body {
     background-color: #010326;
     margin: 0;
 }
-.haut-image2 img{
+
+
+/*Partie 1*/
+.partie1 .haut-image2 img{
     position: absolute;
     top: 293px;
     left: 20px;
 }
-.leg1 p{
+.partie1 .haut-image2 p{
     position: absolute;
     top: 516px;
     height: 14px;
     color: white;
     left: 166px;
 }
-
-/*Paragraphe 1*/
-.titre_ben p {
-    position: absolute;
+.partie1 h1 {
+    position: relative;
     top: 540px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.sous-titre1 p{
+.partie1 p{
     position: absolute;
     top: 579px;
     margin-left: 20px;
     margin-right: 20px;
     right: 1px;
 }
-.inter-titre1 p {
+.partie1 h2 {
     position: absolute;
     top: 685px;
     margin-left: 20px;
     margin-right: 20px;
     right: 2px;
 }
-.texte1 p {
+.partie1 .texte1 p {
     position: absolute;
     top: 765px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.img3 img{
+
+/*Partie 2*/
+.partie2 .img3 img{
     position: absolute;
     top: 1040px;
     box-shadow: #777 0 15px 10px -8px;
 }
-.leg2 p{
+.partie2 .img3 p{
     position: absolute;
     top: 1280px;
     height: 14px;
     color: white;
     right: 10px;
 }
-
-/*Paragraphe 2*/
-.texte2 p {
+.partie2 .texte2 p {
     position: absolute;
     top: 1310px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.img4 img{
+
+/*Paragraphe 3*/
+.partie3 .img4 img{
     position: absolute;
     top: 1710px;
     box-shadow: #777 0 15px 10px -8px;
 }
-.leg3 p{
+.partie3 .img4 p{
     position: absolute;
     top: 1950px;
     height: 14px;
     color: white;
     right: 10px;
 }
-
-/*Paragraphe 3*/
-.inter-titre2 p {
-    position: absolute;
-    top: 1985px;
+.partie3 h2 {
+    position: relative;
+    top: 1945px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.texte3 p {
+.partie3>p {
     position: absolute;
     top: 2020px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.img5 img{
+
+/* Partie 4*/
+.partie4 .img5 img{
     position: absolute;
     top: 2520px;
     box-shadow: #777 0 15px 10px -8px;
 }
-.leg4 p{
+.partie4 .leg4 {
     position: absolute;
-    top: 2750px;
+    top: 2760px;
+    height: 14px;
+    color: white;
+    right: 5px;
+}
+.partie4 .leg4_2 {
+    position: absolute;
+    top: 2775px;
     height: 14px;
     color: white;
     right: 10px;
 }
-.leg4_2 p{
-    position: absolute;
-    top: 2763px;
-    height: 14px;
-    color: white;
-    right: 10px;
-}
-
-/* Paragraphe 4*/
-.texte4 p {
+.partie4>p {
     position: absolute;
     top: 2790px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.img6 img{
+.partie4 .img6 img{
     position: absolute;
     top: 3040px;
     box-shadow: #777 0 15px 10px -8px;
 }
-.leg5 p{
+.partie4 .img6 p{
     position: absolute;
     top: 3280px;
     height: 14px;
@@ -180,27 +181,28 @@ body {
 }
 
 /*Bande annonce*/
-.bande_annonce p {
+.bande_annonce h3 {
     position: absolute;
     top: 3330px;
     text-align: center;
     margin-left: 40px;
     text-decoration: underline;
 }
-.video {
+.bande_annonce .video {
     position: absolute;
     top: 3400px;
     width: 100%;
 }
 
 /*Galerie*/
-.galerie p {
+.galerie h3 {
     position: absolute;
     top: 3635px;
     text-align: center;
     margin-left: 150px;
+    text-decoration: underline;
 }
-.back_galerie {
+.galerie .back_galerie {
     position: absolute;
     top: 3700px;
     height: 500px;
@@ -236,7 +238,6 @@ body {
 .imag_1 p {
     text-align: center
 }
-
 /*Image 2*/
 .imag_2 img{
     margin-right: 35px;
@@ -310,8 +311,12 @@ li.carousel-items{
 }
 
 /*Bouton cliquable*/
-.bouton img {
+.bouton {
+    background-color: #010326;
     position: absolute;
+    height: 72px;
+    width: 296px;
+    border-radius: 50px;
     top: 4250px;
     margin-left: 40px;
 }
