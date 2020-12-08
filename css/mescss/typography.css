@@ -368,7 +368,7 @@ a {
     font-size: 15px;
 }
 
-/*Paragraphe 5*/
+/*Partie 5*/
 .par5 .lgd4 {
     font-family: 'Roboto', serif;
     font-weight: normal;
@@ -406,134 +406,100 @@ a {
 
 /*Page Article Scientifique*/
 
-/*Paragraphe 1*/
-.tt1 p {
+/*Partie 1*/
+.parag1 h1 {
+    font-weight: normal;
     font-size: 18px;
 }
-.artcl1 p{
+.parag1 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.lg1 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    font-size: 9px;
-}
-
-/*Paragraphe 2*/
-.artcl2 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.lg2 p{
+.parag1 .lg1 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
 
-/*Paragraphe 3*/
-.inter-titre-as1 p {
-    font-family: 'Roboto', serif;
-    font-weight: bold;
-    font-size: 15px;
-    line-height: 25px;
-}
-.artcl3 p{
+/*Partie 2*/
+.parag2 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.inter-titre-as2 p {
-    font-family: 'Roboto', serif;
-    font-weight: bold;
-    font-size: 15px;
-    line-height: 25px;
-}
-.artcl4 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.lg3 p{
+.parag2 .lg2 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
 
-/*Paragraphe 4*/
-.inter-titre-as3 p {
+/*Partie 3*/
+.parag3 h2,h3 {
     font-family: 'Roboto', serif;
     font-weight: bold;
     font-size: 15px;
     line-height: 25px;
 }
-.artcl5 p{
+.parag3 p,p1{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.artcl6 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.lg4 p{
+
+.parag3 .lg3 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
 
-/*Paragraphe 4*/
-.inter-titre-as4 p {
+/*Partie 4*/
+.parag4 h2 {
     font-family: 'Roboto', serif;
     font-weight: bold;
     font-size: 15px;
     line-height: 25px;
 }
-.artcl7 p{
+.parag4 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.inter-titre-as5 p {
-    font-family: 'Roboto', serif;
-    font-weight: bold;
-    font-size: 15px;
-    line-height: 25px;
-}
-.artcl8 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.nom-auteur p {
-    font-family: 'Roboto', serif;
-    font-weight: bold;
-    font-size: 15px;
-    line-height: 25px;
-}
-.lg5 p{
+.parag4 .lg4 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
-.lg5-2 p{
+
+/*Partie 5*/
+.parag5 h2 {
+    font-family: 'Roboto', serif;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 25px;
+}
+.parag5 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.parag5 .lg5 {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.parag5 .lg5-2 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
 /*Bouton cliquable*/
-.tex-clic-as1 p {
+.boubou .tex-clic-as1 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 18px;
@@ -549,70 +515,45 @@ a {
 }
 
 /*Ligne 1 bande annonce*/
-.her p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.ghost p {
+.ligne1 p {
     line-height: 25px;
     font-size: 18px;
 }
 
 /*Ligne 2 bande annonce*/
-.blackmirror p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.blackmirror2 p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.htsdo p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.htsdo2 p {
+.ligne2 p {
     line-height: 25px;
     font-size: 18px;
 }
 
 /*Ligne 3 bande annonce*/
-.searching p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.south-park p {
+.ligne3 p {
     line-height: 25px;
     font-size: 18px;
 }
 
 /*Ligne 4 bande annonce*/
-.girl-boss p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.eagle-eye p {
+.ligne4 p {
     line-height: 25px;
     font-size: 18px;
 }
 
 /*Ligne 5 bande annonce*/
-.bladerunner p {
-    line-height: 25px;
-    font-size: 18px;
-}
-.heackers p {
+.ligne5 p {
     line-height: 25px;
     font-size: 18px;
 }
 
 /*Ligne 6 bande annonce*/
-.the-social p {
+.ligne6 p {
     line-height: 25px;
     font-size: 18px;
 }
-.the-social2 p {
-    line-height: 25px;
+
+/*Bouton cliquable*/
+.btonton .tex-clic-ap1 p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
     font-size: 18px;
 }
 

@@ -50,38 +50,37 @@ body {
 }
 
 /*Ligne 1 bande annonce*/
-.ba1 img {
+.ligne1 .ba1 img {
     position: absolute;
     top: 225px;
     margin-left: 25px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.ba2 img {
-    position: absolute;
-    top: 225px;
-    margin-left: 200px;
-    box-shadow: #000 0 15px 20px -8px;
-}
-
-.her p i {
+.ligne1 .ba1 p i {
     position: absolute;
     top: 0;
     text-decoration: underline;
     margin-left: -15px;
 }
-.her p {
+.ligne1 .ba1 p {
     position: absolute;
     top: 430px;
     margin-left: 49px;
     text-align: center;
 }
-.ghost p i {
+.ligne1 .ba2 img {
+    position: absolute;
+    top: 225px;
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne1 .ba2 p i {
     position: absolute;
     top: 0;
     text-decoration: underline;
     margin-left: -60px;
 }
-.ghost p {
+.ligne1 .ba2 p {
     position: absolute;
     top: 430px;
     margin-left: 207px;
@@ -89,37 +88,37 @@ body {
 }
 
 /*Ligne 2 bande annonce*/
-.ba3 img {
+.ligne2 .ba3 img {
     position: absolute;
     top: 554px;
     margin-left: 25px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.ba4 img {
+.ligne2 .ba4 img {
     position: absolute;
     top: 554px;
     margin-left: 200px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.blackmirror i {
+.ligne2 .ba3 i {
     position: absolute;
     top: 790px;
     text-decoration: underline;
     margin-left: 46px;
 }
-.blackmirror2 p{
+.ligne2 .blackmirror2 p{
     position: absolute;
     text-align: center;
     top: 800px;
     margin-left: 55px;
 }
-.htsdo p i {
+.ligne2 .ba4 p {
     position: absolute;
-    top: 790px;
+    top: 772px;
     text-decoration: underline;
     margin-left: 222px;
 }
-.htsdo2 p{
+.ligne2 .htsdo2 p{
     position: absolute;
     text-align: center;
     top: 830px;
@@ -127,36 +126,36 @@ body {
 }
 
 /*Ligne 3 bande annonce*/
-.ba5 img {
+.ligne3 .ba5 img {
     position: absolute;
     top: 900px;
     margin-left: 25px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.ba6 img {
+.ligne3 .ba6 img {
     position: absolute;
     top: 900px;
     margin-left: 200px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.searching p i {
+.ligne3 .ba5 p i {
     position: absolute;
     top: -55px;
     text-decoration: underline;
 }
-.searching p {
+.ligne3 .ba5 p {
     position: absolute;
     top: 1165px;
     margin-left: 34px;
     text-align: center;
 }
-.south-park p i {
+.ligne3 .ba6 p i {
     position: absolute;
     top: 0;
     text-decoration: underline;
     margin-left: -50px;
 }
-.south-park p {
+.ligne3 .ba6 p {
     position: absolute;
     top: 1105px;
     margin-left: 210px;
@@ -164,38 +163,37 @@ body {
 }
 
 /*Ligne 4 bande annonce*/
-.ba7 img {
+.ligne4 .ba7 img {
     position: absolute;
     top: 1260px;
     margin-left: 25px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.ba8 img {
+.ligne4 .ba8 img {
     position: absolute;
     top: 1260px;
     margin-left: 200px;
     box-shadow: #000 0 15px 20px -8px;
 }
-
-.girl-boss p i {
+.ligne4 .ba7 p i {
     position: absolute;
     top: 0;
     text-decoration: underline;
     margin-left: -35px;
 }
-.girl-boss p {
+.ligne4 .ba7 p {
     position: absolute;
     top: 1490px;
     margin-left: 49px;
     text-align: center;
 }
-.eagle-eye p i {
+.ligne4 .ba8 p i {
     position: absolute;
     top: 0;
     text-decoration: underline;
     margin-left: -60px;
 }
-.eagle-eye p {
+.ligne4 .ba8 p {
     position: absolute;
     top: 1490px;
     margin-left: 207px;
@@ -203,37 +201,37 @@ body {
 }
 
 /*Ligne 5 bande annonce*/
-.ba9 img {
+.ligne5 .ba9 img {
     position: absolute;
     top: 1625px;
     margin-left: 25px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.ba10 img {
+.ligne5 .ba10 img {
     position: absolute;
     top: 1625px;
     margin-left: 200px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.bladerunner p i {
+.ligne5 .ba9 p i {
     position: absolute;
     top: -30px;
     text-decoration: underline;
     margin-left: -45px;
 }
-.bladerunner p {
+.ligne5 .ba9 p {
     position: absolute;
     top: 1865px;
     margin-left: 48px;
     text-align: center;
 }
-.heackers p i {
+.ligne5 .ba10 p i {
     position: absolute;
     top: 0;
     text-decoration: underline;
     margin-left: -35px;
 }
-.heackers p {
+.ligne5 .ba10 p {
     position: absolute;
     top: 1835px;
     margin-left: 234px;
@@ -241,39 +239,42 @@ body {
 }
 
 /*Ligne 6 bande annonce*/
-.ba11 img {
+.ligne6 .ba11 img {
     position: absolute;
     top: 1975px;
     margin-left: 115px;
     box-shadow: #000 0 15px 20px -8px;
 }
-.the-social p i {
+.ligne6 .ba11 p i {
     position: absolute;
     top: 2200px;
     text-decoration: underline;
     margin-left: 104px;
 }
-.the-social2 p {
+.ligne6 .the-social2 p {
     position: absolute;
     top: 2210px;
     margin-left: 125px;
     text-align: center;
 }
 
-
 /*Bouton cliquable*/
-.bouton img {
+.btonton {
+    background-color: #010326;
     position: absolute;
+    height: 72px;
+    width: 296px;
+    border-radius: 50px;
     top: 2320px;
     margin-left: 40px;
 }
-.tex-clic-ap1 p {
-    position: absolute;
-    top: 2327px;
+.btonton .tex-clic-ap1 p {
+    position: relative;
     color: white;
     text-decoration: underline;
-    margin-left: 158px;
+    margin-left: 115px;
 }
+
 /*Footer*/
 .fond_footer {
     position: absolute;
