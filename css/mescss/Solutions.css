@@ -41,7 +41,7 @@ body {
 }
 
 /*Image haut*/
-.rect-bleu {
+.haut-imgs .rect-bleu {
     position: absolute;
     background-color: #048ABF;
     top: 120px;
@@ -49,175 +49,179 @@ body {
     width: 363px;
     margin-left: 0;
 }
-.img-ter img {
+.haut-imgs .img-ter img {
     top: 110px;
     position: absolute;
     margin-left: 6px;
 }
-.iglo img {
+.haut-imgs .iglo img {
     position: absolute;
     top: 170px;
     margin-left: 265px;
 }
 
-/*Paragraphe 1*/
-.tit-art p {
+/*Partie 1*/
+.par1 h1 {
     position: absolute;
-    top: 350px;
+    top: 345px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.sous-titre3_1 p {
+.par1 .sous-titre3_1 {
     position: absolute;
     top: 390px;
     margin-left: 20px;
     margin-right: 20px;
     right: 1px;
 }
-.inter-titre2_3 p {
+.par1 h2 {
     position: absolute;
-    top: 460px;
+    top: 447px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.parg1 p {
+.par1 .parg1 {
     position: absolute;
     top: 490px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.parg2 p {
+.par1 .parg2 {
     position: absolute;
     top: 730px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.parg3 p {
+.par1 .parg3 {
     position: absolute;
     top: 790px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.mac img {
+
+/*Partie 2*/
+.par2 .mac img {
     position: absolute;
     top: 1100px;
 }
-.lgd1 p {
+.par2 .lgd1 {
     position: absolute;
-    top: 1307px;
+    top: 1315px;
     margin-left: 90px;
     color: white;
 }
-
-/*Paragraphe 2*/
-.parg4 p {
+.par2 .parg4 {
     position: absolute;
-    top: 1330px;
+    top: 1340px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.quest img {
+
+/*Partie 3*/
+.par3 .quest img {
     position: absolute;
     top: 1490px;
 }
-.lgd2 p {
+.par3 .lgd2 {
     position: absolute;
     top: 1815px;
     margin-left: 90px;
 }
-
-/*Paragraphe 3*/
-.inter-titre3_3 p {
+.par3 h2 {
     position: absolute;
-    top: 1850px;
+    top: 1840px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.petit-titr p {
+.par3 .petit-titr {
     position: absolute;
-    top: 1880px;
+    top: 1890px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.list ul li {
+.par3 .list ul li {
     position: relative;
-    top: 1950px;
+    top: 1940px;
     margin-right: 20px;
 }
-.anciens-tels img {
+
+/*Partie 4*/
+.par4 .anciens-tels img {
     position: absolute;
     top: 2270px;
 }
-.lgd3 p {
+.par4 p {
     position: absolute;
     top: 2525px;
     margin-left: 130px;
     color: white;
 }
-
-/*Paragraphe 4*/
-.list2 ul li {
+.par4 .list2 ul li {
     position: relative;
     top: 2270px;
     margin-right: 20px;
 }
-.parg5 p {
+.par4>p {
+    color: black;
     position: relative;
     top: 2260px;
     margin-left: 38px;
     margin-right: 20px;
 }
-.firefox img {
+
+/*Partiee 5*/
+.par5 .firefox img {
     position: absolute;
     top: 2980px;
 }
-.lgd4 p {
+.par5 .lgd4 {
     position: absolute;
     top: 3165px;
     margin-left: 230px;
     color: white;
 }
-
-/*Paragraphe 5*/
-.list3 ul li {
+.par5 .list3 ul li {
     position: relative;
     top: 2500px;
     margin-right: 20px;
 }
-.parg6 p {
+.par5>p {
     position: relative;
     top: 2490px;
     margin-left: 38px;
     margin-right: 20px;
 }
-.ecosia img {
+.par5 .ecosia img {
     position: absolute;
     top: 3420px;
 }
-.lgd5 p {
+.par5 .lgd5 {
     position: absolute;
-    top: 3715px;
+    top: 3720px;
     margin-left: 190px;;
 }
 
 /*Bouton cliquable*/
-.bouton img {
+.bn {
+    background-color: #010326;
     position: absolute;
+    height: 72px;
+    width: 296px;
+    border-radius: 50px;
     top: 3800px;
     margin-left: 40px;
 }
-.tex-clic-s1 p {
-    position: absolute;
-    top: 3795px;
+.bn .tex-clic-s1 p {
+    position: relative;
     color: white;
     text-decoration: underline;
-    margin-left: 120px;
+    margin-left: 80px;
 }
-.tex-clic-s2 p {
-    position: absolute;
-    top: 3830px;
+.bn .tex-clic-s2 p {
+    position: relative;
     color: white;
-    margin-left: 154px;
+    margin-left: 115px;
+    top: -20px;
 }
 
 /*Footer*/

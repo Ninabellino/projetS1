@@ -276,128 +276,129 @@ a {
 /*Page Solution*/
 
 /*Paragraphe 1*/
-.tit-art p {
+.par1 h1{
     font-size: 18px;
+    font-weight: normal;
 }
-.sous-titre3_1 p {
+.par1 .sous-titre3_1 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 13px;
     line-height: 25px;
 }
-.inter-titre2_3 p {
+.par1 h2 {
     font-family: 'Roboto', serif;
     font-weight: bold;
     font-size: 15px;
     line-height: 25px;
 }
-.parg1 p{
+.par1 .parg1 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.parg2 p{
+.par1 .parg2 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.parg3 p{
+.par1 .parg3 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.lgd1 p{
+
+/*Partie 2*/
+.par2 .lgd1 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
-
-/*Paragraphe 2*/
-.parg4 p{
+.par2 .parg4 p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.lgd2 p{
+
+/*Partie 3*/
+.par3 .lgd2 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
-
-/*Paragraphe 3*/
-.inter-titre3_3 p {
+.par3 h2 {
     font-family: 'Roboto', serif;
     font-weight: bold;
     font-size: 15px;
     line-height: 25px;
 }
-.petit-titr p {
+.par3 .petit-titr {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.list ul li {
+.par3 .list ul li {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
-}
-.lgd3 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    font-size: 9px;
 }
 
-/*Paragraphe 4*/
-.list2 ul li {
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.parg5 p{
-    font-family: 'Roboto', serif;
-    font-weight: normal;
-    line-height: 25px;
-    font-size: 15px;
-}
-.lgd4 p{
+/*Partie 4*/
+.par4 .anciens-tels p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
+}
+.par4 .list2 ul li {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.par4>p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
 }
 
 /*Paragraphe 5*/
-.list3 ul li {
+.par5 .lgd4 {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    font-size: 9px;
+}
+.par5 .list3 ul li {
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.parg6 p{
+.parg5>p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
     font-size: 15px;
 }
-.lgd5 p{
+.par5 .lgd5 {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 9px;
 }
 
 /*Bouton cliquable*/
-.tex-clic-s1 p {
+.bn .tex-clic-s1 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 18px;
 }
-.tex-clic-s2 p {
+.bn .tex-clic-s2 p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 12px;
