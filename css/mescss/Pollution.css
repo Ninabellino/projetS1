@@ -58,13 +58,13 @@ body {
     margin-right: 20px;
     right: 1px;
 }
-.part1 .inter-titre2_1 p {
+.part1 h2 {
     position: absolute;
     top: 880px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.part1 .art-1 p {
+.part1>p {
     position: absolute;
     top: 910px;
     margin-left: 20px;
@@ -76,16 +76,16 @@ body {
     position: absolute;
     top: 1220px;
 }
-.part2 .legd1 p{
+.part2 .data-center p{
     position: absolute;
     top: 1440px;
     height: 14px;
     color: white;
     right: 10px;
 }
-.part2 .art-2 {
+.part2>p {
     position: absolute;
-    top: 1480px;
+    top: 1477px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -94,7 +94,7 @@ body {
     position: absolute;
     margin-left: 48px;
 }
-.part2 .legd2 p {
+.part2 .ordi_vue p {
     position: absolute;
     top: 1820px;
     margin-left: 210px;
@@ -108,7 +108,7 @@ body {
 }
 .part2 .art-3 {
     position: absolute;
-    top: 1840px;
+    top: 1855px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -119,20 +119,20 @@ body {
     position: absolute;;
     width: 100%;
 }
-.part3 .legd4 {
+.part3 .inter p {
     position: absolute;
-    top: 2325px;
+    top: 2315px;
     margin-left: 220px;
 }
-.part3 .inter-titre2_2 {
+.part3 h2 {
     position: absolute;
-    top: 2350px;
+    top: 2345px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.part3 .art-4 {
+.part3 p {
     position: absolute;
-    top: 2385px;
+    top: 2380px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -145,9 +145,9 @@ body {
     position: absolute;
     width: 100%;
 }
-.part4 .legd5 {
+.part4 .jeunes p {
     position: relative;
-    top: 3030px;
+    top: 3025px;
     margin-left: 130px;
     color: white;
 }
@@ -162,16 +162,16 @@ body {
     position: absolute;
     width: 100%;
 }
-.part4 .legd6 {
+.part4 .phone p {
     position: absolute;
-    top: 3568px;
+    top: 3558px;
     margin-left: 160px;
 }
 
 /*Interview*/
-.part5 .t-inter {
+.part5 p {
     position: absolute;
-    top: 3620px;
+    top: 3608px;
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;

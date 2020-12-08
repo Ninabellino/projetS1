@@ -108,7 +108,7 @@ body {
     color: white;
     right: 10px;
 }
-.partie2 .texte2 p {
+.partie2>p {
     position: absolute;
     top: 1310px;
     margin-left: 20px;
@@ -118,25 +118,25 @@ body {
 /*Paragraphe 3*/
 .partie3 .img4 img{
     position: absolute;
-    top: 1710px;
+    top: 1760px;
     box-shadow: #777 0 15px 10px -8px;
 }
 .partie3 .img4 p{
     position: absolute;
-    top: 1950px;
+    top: 2000px;
     height: 14px;
     color: white;
     right: 10px;
 }
 .partie3 h2 {
     position: relative;
-    top: 1945px;
+    top: 1990px;
     margin-left: 20px;
     margin-right: 20px;
 }
 .partie3>p {
     position: absolute;
-    top: 2020px;
+    top: 2060px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -144,37 +144,37 @@ body {
 /* Partie 4*/
 .partie4 .img5 img{
     position: absolute;
-    top: 2520px;
+    top: 2560px;
     box-shadow: #777 0 15px 10px -8px;
 }
 .partie4 .leg4 {
     position: absolute;
-    top: 2760px;
+    top: 2800px;
     height: 14px;
     color: white;
     right: 5px;
 }
 .partie4 .leg4_2 {
     position: absolute;
-    top: 2775px;
+    top: 2815px;
     height: 14px;
     color: white;
     right: 10px;
 }
 .partie4>p {
     position: absolute;
-    top: 2790px;
+    top: 2830px;
     margin-left: 20px;
     margin-right: 20px;
 }
 .partie4 .img6 img{
     position: absolute;
-    top: 3040px;
+    top: 3080px;
     box-shadow: #777 0 15px 10px -8px;
 }
 .partie4 .img6 p{
     position: absolute;
-    top: 3280px;
+    top: 3320px;
     height: 14px;
     color: white;
     right: 10px;
@@ -183,21 +183,21 @@ body {
 /*Bande annonce*/
 .bande_annonce h3 {
     position: absolute;
-    top: 3330px;
+    top: 3360px;
     text-align: center;
     margin-left: 40px;
     text-decoration: underline;
 }
 .bande_annonce .video {
     position: absolute;
-    top: 3400px;
+    top: 3420px;
     width: 100%;
 }
 
 /*Galerie*/
 .galerie h3 {
     position: absolute;
-    top: 3635px;
+    top: 3645px;
     text-align: center;
     margin-left: 150px;
     text-decoration: underline;

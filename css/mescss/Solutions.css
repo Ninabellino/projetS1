@@ -80,21 +80,21 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
-.par1 .parg1 {
+.par1 p {
     position: absolute;
-    top: 490px;
+    top: 480px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.par1 .parg2 {
+.par1 .parg2 p {
     position: absolute;
-    top: 730px;
+    top: 720px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.par1 .parg3 {
+.par1 .parg3 p {
     position: absolute;
-    top: 790px;
+    top: 780px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -104,15 +104,15 @@ body {
     position: absolute;
     top: 1100px;
 }
-.par2 .lgd1 {
+.par2 .mac p {
     position: absolute;
-    top: 1315px;
+    top: 1307px;
     margin-left: 90px;
     color: white;
 }
-.par2 .parg4 {
+.par2 p {
     position: absolute;
-    top: 1340px;
+    top: 1330px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -122,7 +122,7 @@ body {
     position: absolute;
     top: 1490px;
 }
-.par3 .lgd2 {
+.par3 .quest p {
     position: absolute;
     top: 1815px;
     margin-left: 90px;
@@ -133,9 +133,9 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
-.par3 .petit-titr {
+.par3 p {
     position: absolute;
-    top: 1890px;
+    top: 1880px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -174,7 +174,7 @@ body {
     position: absolute;
     top: 2980px;
 }
-.par5 .lgd4 {
+.par5 .firefox p {
     position: absolute;
     top: 3165px;
     margin-left: 230px;
@@ -182,12 +182,12 @@ body {
 }
 .par5 .list3 ul li {
     position: relative;
-    top: 2500px;
+    top: 2490px;
     margin-right: 20px;
 }
 .par5>p {
     position: relative;
-    top: 2490px;
+    top: 2480px;
     margin-left: 38px;
     margin-right: 20px;
 }
@@ -195,7 +195,7 @@ body {
     position: absolute;
     top: 3420px;
 }
-.par5 .lgd5 {
+.par5 .ecosia p {
     position: absolute;
     top: 3720px;
     margin-left: 190px;;
