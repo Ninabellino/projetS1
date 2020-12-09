@@ -49,7 +49,6 @@ a {
     font-size: 26px;
 }
 
-
 /*Page Code poursuite*/
 
 /*Paragraphe 1*/
@@ -157,7 +156,6 @@ a {
     font-weight: normal;
     font-size: 12px;
 }
-
 
 /*Page Pollution*/
 
@@ -272,7 +270,6 @@ h2 {
     font-size: 12px;
 }
 
-
 /*Page Solution*/
 
 /*Paragraphe 1*/
@@ -305,7 +302,7 @@ h2 {
     font-weight: normal;
     font-size: 9px;
 }
-.par2 p{
+.par2>p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
@@ -324,7 +321,13 @@ h2 {
     font-size: 15px;
     line-height: 25px;
 }
-.par3 p, ul li {
+.par3>p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.par3 .list ul li{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
@@ -337,7 +340,13 @@ h2 {
     font-weight: normal;
     font-size: 9px;
 }
-.par4>p, ul li {
+.par4>p {
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
+.par4 .list2 ul li{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
@@ -548,7 +557,6 @@ h2 {
 .contact-moi p {
     font-size: 40px;
 }
-
 
 
 /*Footer*/

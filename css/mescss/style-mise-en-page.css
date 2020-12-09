@@ -1,0 +1,1027 @@
+body {
+    background-color: #F6F3EA;
+}
+
+/*Header*/
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+.fond_header {
+    position: relative;
+    top: -82px;
+    height: 100px;
+    width: 100%;
+}
+.logo img {
+    z-index: 1;
+    position: relative;
+    top: 10px;
+    left: 18px;
+}
+.titre_projet p {
+    position: relative;
+    top: -145px;
+}
+.titre_projet2 p {
+    position: relative;
+    top: -150px;
+}
+
+/*--------------------------------- CODE POURSUITE ---------------------------------*/
+/*Images du haut*/
+.haut-image img{
+    position: relative;
+    top: 60px;
+}
+.rect-marine {
+    position: relative;
+    height: 145px;
+    width: 100%;
+    top: -420px;
+}
+/*Partie 1*/
+.partie1 .haut-image2 img{
+    position: absolute;
+    top: 293px;
+    left: 20px;
+}
+.partie1 .haut-image2 p{
+    position: absolute;
+    top: 516px;
+    height: 14px;
+    left: 140px;
+}
+.partie1 h1 {
+    position: relative;
+    top: -420px;
+}
+.partie1 p{
+    position: absolute;
+    top: 579px;
+    right: 1px;
+}
+.partie1 h2 {
+    position: absolute;
+    top: 685px;
+    right: 2px;
+}
+.partie1 .texte1 p {
+    position: absolute;
+    top: 765px;
+}
+
+/*Partie 2*/
+.partie2 .img3 img{
+    position: absolute;
+    top: 1040px;
+}
+.partie2 .img3 p{
+    position: absolute;
+    top: 1280px;
+    height: 14px;
+    right: 10px;
+}
+.partie2>p {
+    position: absolute;
+    top: 1325px;
+}
+
+/*Partie 3*/
+.partie3 .img4 img{
+    position: absolute;
+    top: 1760px;
+}
+.partie3 .img4 p{
+    position: absolute;
+    top: 2000px;
+    height: 14px;
+    right: 10px;
+}
+.partie3 h2 {
+    position: relative;
+    top: 1030px;
+}
+.partie3>p {
+    position: absolute;
+    top: 2060px;
+}
+
+/* Partie 4*/
+.partie4 .img5 img{
+    position: absolute;
+    top: 2560px;
+}
+.partie4 .leg4 {
+    position: absolute;
+    top: 2800px;
+    height: 14px;
+    right: 5px;
+}
+.partie4 .leg4_2 {
+    position: absolute;
+    top: 2815px;
+    height: 14px;
+    right: 10px;
+}
+.partie4>p {
+    position: absolute;
+    top: 2830px;
+}
+.partie4 .img6 img{
+    position: absolute;
+    top: 3080px;
+}
+.partie4 .img6 p{
+    position: absolute;
+    top: 3320px;
+    height: 14px;
+    right: 10px;
+}
+
+/*Bande annonce*/
+.bande_annonce h3 {
+    position: absolute;
+    top: 3360px;
+}
+.bande_annonce .video {
+    position: absolute;
+    top: 3420px;
+    width: 100%;
+}
+
+/*Galerie*/
+.galerie h3 {
+    position: absolute;
+    top: 3645px;
+}
+.galerie .back_galerie {
+    position: absolute;
+    top: 3700px;
+    height: 500px;
+    width: 100%;
+}
+
+/*Carousel*/
+.carousel{
+    top: 3700px;
+    padding:20px 0 ;
+    position: absolute;
+    width: 100%;
+}
+
+.carousel-items{
+    list-style: none;
+    padding: 20px 0;
+    display: flex;
+    overflow: scroll;
+    scroll-snap-type: x mandatory;
+    margin-left: 17px;
+}
+
+/*Image 1*/
+.imag_1 p {
+    text-align: center
+}
+/*Image 2*/
+.imag_2 p {
+    margin-left: 70px;
+}
+/*Image 3*/
+.imag_3 p {
+    margin-left: 110px;
+}
+/*Image 4*/
+
+.imag_4 p{
+    margin-left: 100px;
+}
+/*Image 5*/
+.imag_5 p {
+    margin-left: 35px;
+}
+/*Image 6*/
+.imag_6 p{
+    margin-left: 80px;
+}
+/*Image */
+.imag_7 p{
+    margin-left: 95px;
+}
+
+li.carousel-items{
+    flex: 1 0 320px;
+    margin-right:20px;
+    scroll-snap-align:center;
+}
+
+::-webkit-scrollbar{
+    height: 2px;
+}
+
+::-webkit-scrollbar-track{
+    background-color:white;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color:white;
+}
+/*Bouton cliquable*/
+.bouton {
+    position: absolute;
+    height: 72px;
+    width: 296px;
+    top: 4250px;
+}
+.bouton .tex-clic p {
+    top: 14px;
+    position: relative;
+}
+.bouton .tex-clic2 p {
+    position: relative;
+    top: 11px;
+}
+/*Footer*/
+.fond_footer2 {
+    position: absolute;
+    top: 4380px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom2 {
+    position: absolute;
+    top: 4385px;
+    left: 19px;
+}
+.mailto2 p {
+    position: absolute;
+    top: 4385px;
+    left: 225px;
+}
+.projet2 {
+    position: absolute;
+    top: 4430px;
+}
+.mmi_montbe2 p {
+    position: absolute;
+    top: 4480px;
+    left: 136px;
+}
+
+
+/*---------------------------------- POLLUTION ---------------------------------*/
+/*Partie 1*/
+.part1 .terre-img img {
+    position: absolute;
+    top: 60px;
+}
+.part1 h1 {
+    position: absolute;
+    top: 739px;
+}
+.part1 .sous-titre2 p {
+    position: absolute;
+    top: 780px;
+    right: 1px;
+}
+.part1 h2 {
+    position: absolute;
+    top: 880px;
+}
+.part1>p {
+    position: absolute;
+    top: 910px;
+}
+
+/*Partie 2*/
+.part2 .data-center img {
+    position: absolute;
+    top: 1220px;
+}
+.part2 .data-center p{
+    position: absolute;
+    top: 1440px;
+    height: 14px;
+    right: 10px;
+}
+.part2>p {
+    position: absolute;
+    top: 1477px;
+}
+.part2 .ordi_vue img {
+    top: 1700px;
+    position: absolute;
+}
+.part2 .ordi_vue p {
+    position: absolute;
+    top: 1820px;
+}
+.part2 .legd3 p {
+    position: absolute;
+    top: 1830px;
+}
+.part2 .art-3 {
+    position: absolute;
+    top: 1855px;
+}
+
+/*Partie 3*/
+.part3 .inter img {
+    top: 2100px;
+    position: absolute;;
+    width: 100%;
+}
+.part3 .inter p {
+    position: absolute;
+    top: 2315px;
+}
+.part3 h2 {
+    position: absolute;
+    top: 2345px;
+}
+.part3 p {
+    position: absolute;
+    top: 2380px;
+}
+
+/*Partie 4*/
+.part4 .jeunes img {
+    top: 2870px;
+    position: absolute;
+    width: 100%;
+}
+.part4 .jeunes p {
+    position: relative;
+    top: 3025px;
+}
+.part4 .art-5 {
+    position: absolute;
+    top: 3055px;
+}
+.part4 .phone img {
+    top: 3250px;
+    position: absolute;
+    width: 100%;
+}
+.part4 .phone p {
+    position: absolute;
+    top: 3558px;
+}
+
+/*Interview*/
+.part5 p {
+    position: absolute;
+    top: 3608px;
+}
+.part5 .vid-inter img {
+    top: 3745px;
+    position: absolute;
+}
+.part5 .play img {
+    top: 3920px;
+    position: absolute;
+}
+/*Bouton cliquable*/
+.bbt {
+    position: absolute;
+    height: 72px;
+    width: 296px;
+    top: 4250px;
+}
+.bbt .tex-clic1_1 p {
+    top: 14px;
+    position: relative;
+}
+.bbt .tex-clic2_2 p {
+    position: relative;
+    top: 11px;
+}
+/*Footer*/
+.fond_footer3 {
+    position: absolute;
+    top: 4380px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom3 {
+    position: absolute;
+    top: 4385px;
+    left: 19px;
+}
+.mailto3 p {
+    position: absolute;
+    top: 4385px;
+    left: 225px;
+}
+.projet3 {
+    position: absolute;
+    top: 4430px;
+}
+.mmi_montbe3 p {
+    position: absolute;
+    top: 4480px;
+    left: 136px;
+}
+
+
+/*---------------------------------- SOLLUTION ---------------------------------*/
+/*Image haut*/
+.haut-imgs .rect-bleu {
+    position: absolute;
+    top: 120px;
+    height: 174px;
+    width: 363px;
+}
+.haut-imgs .img-ter img {
+    top: 105px;
+    position: absolute;
+}
+.haut-imgs .iglo img {
+    position: absolute;
+    top: 170px;
+}
+
+/*Partie 1*/
+.par1 h1 {
+    position: absolute;
+    top: 345px;
+}
+.par1 .sous-titre3_1 {
+    position: absolute;
+    top: 390px;
+    right: 1px;
+}
+.par1 h2 {
+    position: absolute;
+    top: 447px;
+}
+.par1 p {
+    position: absolute;
+    top: 480px;
+}
+.par1 .parg2 p {
+    position: absolute;
+    top: 720px;
+}
+.par1 .parg3 p {
+    position: absolute;
+    top: 780px;
+}
+/*Partie 2*/
+.par2 .mac img {
+    position: absolute;
+    top: 1090px;
+}
+.par2 .mac p {
+    position: absolute;
+    top: 1307px;
+}
+.par2>p {
+    position: absolute;
+    top: 1330px;
+}
+/*Partie 3*/
+.par3 .quest img {
+    position: absolute;
+    top: 1480px;
+}
+.par3 .quest p {
+    position: absolute;
+    top: 1815px;
+}
+.par3 h2 {
+    position: absolute;
+    top: 1845px;
+}
+.par3>p {
+    position: absolute;
+    top: 1880px;
+}
+.par3 .list ul li {
+    position: relative;
+    top: 1940px;
+}
+/*Partie 4*/
+.par4 .anciens-tels img {
+    position: absolute;
+    top: 2255px;
+}
+.par4 .anciens-tels p {
+    position: absolute;
+    top: 2525px;
+}
+.par4 .list2 ul li {
+    position: relative;
+    top: 2270px;
+}
+.par4>p {
+    position: relative;
+    top: 2280px;
+}
+/*Partiee 5*/
+.par5 .firefox img {
+    position: absolute;
+    top: 2965px;
+}
+.par5 .firefox p {
+    position: absolute;
+    top: 3165px;
+}
+.par5 .list3 ul li {
+    position: relative;
+    top: 2540px;
+}
+.par5>p {
+    position: relative;
+    top: 2550px;
+}
+.par5 .ecosia img {
+    position: absolute;
+    top: 3410px;
+}
+.par5 .ecosia p {
+    position: absolute;
+    top: 3710px;
+    margin-left: 190px;;
+}
+/*Bouton cliquable*/
+.bn {
+    position: absolute;
+    height: 72px;
+    width: 296px;
+    top: 3800px;
+}
+.bn .tex-clic-s1 p {
+    top: 14px;
+    position: relative;
+}
+.bn .tex-clic-s2 p {
+    top: 11px;
+    position: relative;
+}
+/*Footer*/
+.fond_footer4 {
+    position: absolute;
+    top: 3930px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom4 {
+    position: absolute;
+    top: 3935px;
+    left: 19px;
+}
+.mailto4 p {
+    position: absolute;
+    top: 3935px;
+    left: 225px;
+}
+.projet4 {
+    position: absolute;
+    top: 3980px;
+}
+.mmi_montbe4 p {
+    position: absolute;
+    top: 4030px;
+    left: 136px;
+}
+
+
+/*---------------------------------- ARTICLE SCIENTIFIQUE ---------------------------------*/
+/*Partie 1*/
+.parag1 .teletravail img {
+    top: 98px;
+    position: absolute;
+}
+.parag1 h1 {
+    position: absolute;
+    top: 532px;
+}
+.parag1 p {
+    position: absolute;
+    top: 600px;
+}
+.parag1 .table img {
+    top: 800px;
+    position: absolute;
+}
+.parag1 .lg1 {
+    position: absolute;
+    top: 1035px;
+}
+
+/*Partie 2*/
+.parag2 p {
+    position: absolute;
+    top: 1060px;
+}
+.parag2 .violet1 {
+    position: absolute;
+    top: 1058px;
+    height: 27px;
+    width: 107px;
+}
+.parag2 .violet2 {
+    position: absolute;
+    top: 1132px;
+    height: 27px;
+    width: 298px;
+}
+.parag2 .violet3 {
+    position: absolute;
+    top: 1310px;
+    height: 27px;
+    width: 206px;
+}
+.parag2 .carte img {
+    top: 1600px;
+    position: absolute;
+}
+.parag2 .lg2 p {
+    position: absolute;
+    top: 1825px;
+}
+/*Partie 3*/
+.parag3 h2 {
+    position: absolute;
+    top: 1860px;
+}
+.parag3 p {
+    position: absolute;
+    top: 1885px;
+}
+.parag3 h3 {
+    position: absolute;
+    top: 2010px;
+}
+.parag3 p1 {
+    position: absolute;
+    top: 2080px;
+}
+.parag3 .bouchon img {
+    top: 2255px;
+    position: absolute;
+}
+.parag3 .lg3 {
+    position: absolute;
+    top: 2510px;
+}
+/*Partie 4*/
+.parag4 h2 {
+    position: absolute;
+    top: 2530px;
+}
+.parag4 p {
+    position: absolute;
+    top: 2560px;
+}
+.parag4 .artcl6 p {
+    position: absolute;
+    top: 2645px;
+}
+.parag4 .billet img {
+    top: 2880px;
+    position: absolute;
+}
+.parag4 .lg4 {
+    position: absolute;
+    top: 3125px;
+}
+/*Partie 5*/
+.parag5 h2 {
+    position: absolute;
+    top: 3150px;
+}
+.parag5 p {
+    position: absolute;
+    top: 3205px;
+}
+.parag5 .inter-titre-as5 h2 {
+    position: absolute;
+    top: 3360px;
+}
+.parag5 .inter-titre-as5 p {
+    position: absolute;
+    top: 3415px;
+}
+.parag5 .nom-auteur h2 {
+    position: absolute;
+    top: 3500px;
+}
+.parag5 .ademe img {
+    top: 3550px;
+    position: absolute;
+}
+.parag5 .lg5 {
+    position: absolute;
+    top: 3775px;
+}
+.parag5 .lg5-2 {
+    position: absolute;
+    top: 3788px;
+}
+/*Lien article*/
+.lien-art p {
+    position: absolute;
+    top: 3800px;
+}
+/*Bouton cliquable*/
+.boubou {
+    position: absolute;
+    height: 72px;
+    width: 296px;
+    top: 3900px;
+}
+.boubou .tex-clic-as1 p {
+    top: 14px;
+    position: relative;
+}
+/*Footer*/
+.fond_footer5 {
+    position: absolute;
+    top: 4030px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom5 {
+    position: absolute;
+    top: 4035px;
+    left: 19px;
+}
+.mailto5 p {
+    position: absolute;
+    top: 4035px;
+    left: 225px;
+}
+.projet5 {
+    position: absolute;
+    top: 4080px;
+}
+.mmi_montbe5 p {
+    position: absolute;
+    top: 4130px;
+    left: 136px;
+}
+
+
+/*---------------------------------- AUTRES PROJETS ---------------------------------*/
+/*Paragraphe 1*/
+.txt1 p {
+    position: absolute;
+    top: 120px;
+}
+/*Ligne 1 bande annonce*/
+.ligne1 .ba1 img {
+    position: absolute;
+    top: 225px;
+}
+.ligne1 .ba1 p i {
+    position: absolute;
+}
+.ligne1 .ba1 p {
+    position: absolute;
+    top: 445px;
+}
+.ligne1 .ba2 img {
+    position: absolute;
+    top: 225px;
+}
+.ligne1 .ba2 p i {
+    position: absolute;
+    top: 0;
+}
+.ligne1 .ba2 p {
+    position: absolute;
+    top: 445px;
+}
+/*Ligne 2 bande annonce*/
+.ligne2 .ba3 img {
+    position: absolute;
+    top: 554px;
+}
+.ligne2 .ba4 img {
+    position: absolute;
+    top: 554px;
+}
+.ligne2 .ba3 i {
+    position: absolute;
+    top: 790px;
+}
+.ligne2 .blackmirror2 p{
+    position: absolute;
+    top: 815px;
+}
+.ligne2 .ba4 p {
+    position: absolute;
+    top: 790px;
+}
+.ligne2 .htsdo2 p{
+    position: absolute;
+    top: 840px;
+}
+/*Ligne 3 bande annonce*/
+.ligne3 .ba5 img {
+    position: absolute;
+    top: 900px;
+}
+.ligne3 .ba6 img {
+    position: absolute;
+    top: 900px;
+}
+.ligne3 .ba5 p i {
+    position: absolute;
+    top: -55px;
+}
+.ligne3 .ba5 p {
+    position: absolute;
+    top: 1180px;
+}
+.ligne3 .ba6 p i {
+    position: absolute;
+    top: 0;
+}
+.ligne3 .ba6 p {
+    position: absolute;
+    top: 1125px;
+}
+/*Ligne 4 bande annonce*/
+.ligne4 .ba7 img {
+    position: absolute;
+    top: 1260px;
+}
+.ligne4 .ba8 img {
+    position: absolute;
+    top: 1260px;
+}
+.ligne4 .ba7 p i {
+    position: absolute;
+    top: 0;
+}
+.ligne4 .ba7 p {
+    position: absolute;
+    top: 1510px;
+}
+.ligne4 .ba8 p i {
+    position: absolute;
+    top: 0;
+}
+.ligne4 .ba8 p {
+    position: absolute;
+    top: 1510px;
+}
+/*Ligne 5 bande annonce*/
+.ligne5 .ba9 img {
+    position: absolute;
+    top: 1625px;
+}
+.ligne5 .ba10 img {
+    position: absolute;
+    top: 1625px;
+}
+.ligne5 .ba9 p i {
+    position: absolute;
+    top: -30px;
+}
+.ligne5 .ba9 p {
+    position: absolute;
+    top: 1885px;
+}
+.ligne5 .ba10 p i {
+    position: absolute;
+    top: 0;
+}
+.ligne5 .ba10 p {
+    position: absolute;
+    top: 1855px;
+}
+/*Ligne 6 bande annonce*/
+.ligne6 .ba11 img {
+    position: absolute;
+    top: 1975px;
+}
+.ligne6 .ba11 p i {
+    position: absolute;
+    top: 2205px;
+}
+.ligne6 .the-social2 p {
+    position: absolute;
+    top: 2235px;
+}
+/*Bouton cliquable*/
+.btonton {
+    position: absolute;
+    height: 72px;
+    width: 296px;
+    top: 2320px;
+}
+.btonton .tex-clic-ap1 p {
+    top: 20px;
+    position: relative;
+}
+/*Footer*/
+.fond_footer6 {
+    position: absolute;
+    top: 2430px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom6 {
+    position: absolute;
+    top: 2435px;
+    left: 19px;
+}
+.mailto6 p {
+    position: absolute;
+    top: 2435px;
+    left: 225px;
+}
+.projet6 {
+    position: absolute;
+    top: 2480px;
+}
+.mmi_montbe6 p {
+    position: absolute;
+    top: 2530px;
+    left: 136px;
+}
+
+
+/*---------------------------------- A PROPOS ---------------------------------*/
+/*Haut image*/
+.class img {
+    position: absolute;
+    top: 98px;
+}
+.present p {
+    position: absolute;
+    top: 330px;
+}
+/*Deuxième partie*/
+.machine img {
+    position: absolute;
+    top: 620px;
+}
+.contact-moi p {
+    position: absolute;
+    top: 630px;
+}
+.edit img {
+    position: absolute;
+    top: 720px;
+}
+/*Formulaire de contact*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.wrap {
+    position: absolute;
+    top: 1360px;
+    transform: translateY(-50%);
+    width: 100%;
+    padding: 20px;
+}
+::-webkit-input-placeholder{
+    color: black;
+}
+::-moz-input-placeholder{
+    color: black;
+}
+::-ms-input-placeholder{
+    color: black;
+}
+/*Bouton cliquable*/
+.btn {
+    cursor: pointer;
+}
+/*Footer*/
+.fond_footer7 {
+    position: absolute;
+    top: 1735px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom7 {
+    position: absolute;
+    top: 1745px;
+    left: 19px;
+}
+.mailto7 p {
+    position: absolute;
+    top: 1745px;
+    left: 225px;
+}
+.projet7 {
+    position: absolute;
+    top: 1790px;
+}
+.mmi_montbe7 p {
+    position: absolute;
+    top: 1840px;
+    left: 136px;
+}

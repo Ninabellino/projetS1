@@ -1,0 +1,821 @@
+/*Header*/
+.fond_header {
+    background-color: #048ABF;
+    margin: 0;
+}
+body {
+    margin: 0;
+    margin-bottom: -15px;
+}
+.titre_projet p {
+    color: white;
+    margin-left: 145px;
+}
+.titre_projet2 p {
+    color: white;
+    margin-left: 140px;
+}
+
+/*--------------------------------- CODE POURSUITE ---------------------------------*/
+/*Images du haut*/
+.rect-marine {
+    background-color: #010326;
+    margin: 0;
+}
+/*Partie 1*/
+.partie1 .haut-image2 p{
+    color: white;
+}
+.partie1 h1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.partie1 p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.partie1 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.partie1 .texte1 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 2*/
+.partie2 .img3 img{
+    box-shadow: #777 0 15px 10px -8px;
+}
+.partie2 .img3 p{
+    color: white;
+}
+.partie2>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 3*/
+.partie3 .img4 img{
+    box-shadow: #777 0 15px 10px -8px;
+}
+.partie3 .img4 p{
+    color: white;
+}
+.partie3 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.partie3>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/* Partie 4*/
+.partie4 .img5 img{
+    box-shadow: #777 0 15px 10px -8px;
+}
+.partie4 .leg4 {
+    color: white;
+}
+.partie4 .leg4_2 {
+    color: white;
+}
+.partie4>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.partie4 .img6 img{
+    box-shadow: #777 0 15px 10px -8px;
+}
+.partie4 .img6 p{
+    color: white;
+}
+/*Bande annonce*/
+.bande_annonce h3 {
+    text-align: center;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+/*Galerie*/
+.galerie h3 {
+    text-align: center;
+    margin-left: 150px;
+    text-decoration: underline;
+}
+.galerie .back_galerie {
+    background-color: white;
+    margin: 0;
+}
+/*Carousel*/
+.carousel{
+    color: black;
+}
+/*Image 1*/
+.imag_1 img{
+    margin-right: 35px;
+    margin-left: 45px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Image 2*/
+.imag_2 img{
+    margin-right: 35px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Image 3*/
+.imag_3 img{
+    margin-right: 35px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Image 4*/
+.imag_4 img{
+    margin-right: 35px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Image 5*/
+.imag_5 img{
+    margin-right: 35px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Image 6*/
+.imag_6 img{
+    margin-right: 35px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Image */
+.imag_7 img{
+    margin-right: 35px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+/*Bouton cliquable*/
+.bouton {
+    background-color: #010326;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.bouton .tex-clic p {
+    color: white;
+    text-decoration: underline;
+    margin-left: 75px;
+}
+.bouton .tex-clic2 p {
+    color: white;
+    margin-left: 115px;
+}
+/*Footer*/
+.fond_footer2 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom2 {
+    color: white;
+}
+.mailto2 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet2 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe2 p {
+    color: white;
+    text-decoration: underline;
+}
+
+/*---------------------------------- POLLUTION ---------------------------------*/
+/*Partie 1*/
+.part1 h1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.part1 .sous-titre2 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.part1 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.part1>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 2*/
+.part2 .data-center p{
+    color: white;
+}
+.part2>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.part2 .ordi_vue img {
+    margin-left: 48px;
+}
+.part2 .ordi_vue p {
+    margin-left: 210px;
+    color: white;
+}
+.part2 .legd3 p {
+    margin-left: 270px;
+    color: white;
+}
+.part2 .art-3 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 3*/
+.part3 .inter p {
+    margin-left: 220px;
+}
+.part3 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.part3 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 4*/
+.part4 .jeunes p {
+    margin-left: 130px;
+    color: white;
+}
+.part4 .art-5 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.part4 .phone p {
+    margin-left: 160px;
+}
+/*Interview*/
+.part5 p {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.part5 .play img {
+    margin-left: 145px;
+}
+/*Bouton cliquable*/
+.bbt {
+    background-color: #010326;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.bbt .tex-clic1_1 p {
+    color: white;
+    text-decoration: underline;
+    margin-left: 100px;
+}
+.bbt .tex-clic2_2 p {
+    color: white;
+    margin-left: 115px;
+}
+/*Footer*/
+.fond_footer3 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom3 {
+    color: white;
+}
+.mailto3 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet3 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe3 p {
+    color: white;
+    text-decoration: underline;
+}
+
+/*---------------------------------- SOLLUTION ---------------------------------*/
+/*Image haut*/
+.haut-imgs .rect-bleu {
+    background-color: #048ABF;
+    margin-left: 0;
+}
+.haut-imgs .img-ter img {
+    margin-left: 6px;
+}
+.haut-imgs .iglo img {
+    margin-left: 265px;
+}
+/*Partie 1*/
+.par1 h1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par1 .sous-titre3_1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par1 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par1 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par1 .parg2 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par1 .parg3 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 2*/
+.par2 .mac p {
+    margin-left: 90px;
+    color: white;
+}
+.par2>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Partie 3*/
+.par3 .quest p {
+    margin-left: 90px;
+}
+.par3 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par3>p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.par3 .list ul li {
+    margin-left: 38px;
+    margin-right: 20px;
+}
+/*Partie 4*/
+.par4 .anciens-tels p {
+    margin-left: 130px;
+    color: white;
+}
+.par4 .list2 ul li {
+    margin-left: 38px;
+    margin-right: 20px;
+}
+.par4>p {
+    color: black;
+    margin-left: 38px;
+    margin-right: 20px;
+}
+/*Partiee 5*/
+.par5 .firefox p {
+    margin-left: 230px;
+    color: white;
+}
+.par5 .list3 ul li {
+    margin-left: 38px;
+    margin-right: 20px;
+}
+.par5>p {
+    margin-left: 38px;
+    margin-right: 20px;
+}
+.par5 .ecosia p {
+    margin-left: 190px;;
+}
+/*Bouton cliquable*/
+.bn {
+    background-color: #010326;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.bn .tex-clic-s1 p {
+    color: white;
+    text-decoration: underline;
+    margin-left: 80px;
+}
+.bn .tex-clic-s2 p {
+    color: white;
+    margin-left: 115px;
+}
+/*Footer*/
+.fond_footer4 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom4 {
+    color: white;
+}
+.mailto4 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet4 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe4 p {
+    color: white;
+    text-decoration: underline;
+}
+
+
+/*---------------------------------- ARTICLE SCIENTIFIQUE ---------------------------------*/
+/*Partie 1*/
+.parag1 h1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag1 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag1 .lg1 {
+    margin-left: 218px;
+    color: white;
+}
+/*Partie 2*/
+.parag2 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag2 .violet1 {
+    background-color: #6356B5;
+    margin-left: 0;
+    opacity: 44%;
+}
+.parag2 .violet2 {
+    background-color: #6356B5;
+    margin-left: 77px;
+    opacity: 44%;
+}
+.parag2 .violet3 {
+    background-color: #6356B5;
+    margin-left: 0;
+    opacity: 44%;
+}
+.parag2 .lg2 p {
+    margin-left: 250px;
+    color: white;
+}
+/*Partie 3*/
+.parag3 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag3 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag3 h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag3 p1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag3 .lg3 {
+    margin-left: 152px;
+    color: white;
+}
+/*Partie 4*/
+.parag4 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag4 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag4 .artcl6 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag4 .lg4 {
+    margin-left: 130px;
+    color: white;
+}
+/*Partie 5*/
+.parag5 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag5 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag5 .inter-titre-as5 h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag5 .inter-titre-as5 p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag5 .nom-auteur h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.parag5 .ademe img {
+    margin-left: 59px;
+}
+.parag5 .lg5 {
+    margin-left: 63px;
+}
+.parag5 .lg5-2 {
+    margin-left: 255px;
+}
+/*Lien article*/
+.lien-art p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+/*Bouton cliquable*/
+.boubou {
+    background-color: #010326;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.boubou .tex-clic-as1 p {
+    color: white;
+    text-decoration: underline;
+    margin-left: 90px;
+}
+/*Footer*/
+.fond_footer5 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom5 {
+    color: white;
+}
+.mailto5 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet5 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe5 p {
+    color: white;
+    text-decoration: underline;
+}
+
+/*---------------------------------- AUTRES PROJETS ---------------------------------*/
+/*Paragraphe 1*/
+.txt1 p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+/*Ligne 1 bande annonce*/
+.ligne1 .ba1 img {
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne1 .ba1 p i {
+    text-decoration: underline;
+    margin-left: -15px;
+}
+.ligne1 .ba1 p {
+    margin-left: 49px;
+    text-align: center;
+}
+.ligne1 .ba2 img {
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne1 .ba2 p i {
+    text-decoration: underline;
+    margin-left: -60px;
+}
+.ligne1 .ba2 p {
+    margin-left: 207px;
+    text-align: center;
+}
+/*Ligne 2 bande annonce*/
+.ligne2 .ba3 img {
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne2 .ba4 img {
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne2 .ba3 i {
+    text-decoration: underline;
+    margin-left: 46px;
+}
+.ligne2 .blackmirror2 p{
+    text-align: center;
+    margin-left: 55px;
+}
+.ligne2 .ba4 p {
+    text-decoration: underline;
+    margin-left: 222px;
+}
+.ligne2 .htsdo2 p{
+    text-align: center;
+    margin-left: 251px;
+}
+/*Ligne 3 bande annonce*/
+.ligne3 .ba5 img {
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne3 .ba6 img {
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne3 .ba5 p i {
+    text-decoration: underline;
+}
+.ligne3 .ba5 p {
+    margin-left: 34px;
+    text-align: center;
+}
+.ligne3 .ba6 p i {
+    text-decoration: underline;
+    margin-left: -50px;
+}
+.ligne3 .ba6 p {
+    margin-left: 210px;
+    text-align: center;
+}
+/*Ligne 4 bande annonce*/
+.ligne4 .ba7 img {
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne4 .ba8 img {
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne4 .ba7 p i {
+    text-decoration: underline;
+    margin-left: -35px;
+}
+.ligne4 .ba7 p {
+    margin-left: 49px;
+    text-align: center;
+}
+.ligne4 .ba8 p i {
+    text-decoration: underline;
+    margin-left: -60px;
+}
+.ligne4 .ba8 p {
+    margin-left: 207px;
+    text-align: center;
+}
+/*Ligne 5 bande annonce*/
+.ligne5 .ba9 img {
+    margin-left: 25px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne5 .ba10 img {
+    margin-left: 200px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne5 .ba9 p i {
+    text-decoration: underline;
+    margin-left: -45px;
+}
+.ligne5 .ba9 p {
+    margin-left: 48px;
+    text-align: center;
+}
+.ligne5 .ba10 p i {
+    text-decoration: underline;
+    margin-left: -35px;
+}
+.ligne5 .ba10 p {
+    margin-left: 234px;
+    text-align: center;
+}
+/*Ligne 6 bande annonce*/
+.ligne6 .ba11 img {
+    margin-left: 115px;
+    box-shadow: #000 0 15px 20px -8px;
+}
+.ligne6 .ba11 p i {
+    text-decoration: underline;
+    margin-left: 104px;
+}
+.ligne6 .the-social2 p {
+    margin-left: 125px;
+    text-align: center;
+}
+/*Bouton cliquable*/
+.btonton {
+    background-color: #010326;
+    border-radius: 50px;
+    margin-left: 40px;
+}
+.btonton .tex-clic-ap1 p {
+    color: white;
+    text-decoration: underline;
+    margin-left: 115px;
+}
+/*Footer*/
+.fond_footer6 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom6 {
+    color: white;
+}
+.mailto6 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet6 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe6 p {
+    color: white;
+    text-decoration: underline;
+}
+
+
+/*---------------------------------- A PROPOS ---------------------------------*/
+/*Haut image*/
+.class img {
+    opacity: 46%;
+}
+.present p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Deuxième partie*/
+.machine img {
+    opacity: 46%;
+}
+.contact-moi p {
+    color: white;
+    margin-left: 69px;
+    text-align: center;
+}
+.edit img {
+    margin-left: 156.12px;
+    color: white;
+}
+/*Formulaire de contact*/
+.contact-form {
+    max-width: 375px;
+    margin: 0;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgba(0,0,0,0.13);
+}
+.input-fields {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4%;
+}
+.input-fields, .msg {
+    width: 90%;
+}
+.input-fields .input, .msg textarea {
+    margin: 10px 0;
+    background: transparent;
+    border: 0;
+    border-bottom: 2px solid black;
+    padding: 10%;
+    color: black;
+    width: 100%;
+}
+.msg textarea {
+    height: 225px;
+}
+/*Bouton cliquable*/
+.btn {
+    background: #010326;
+    text-align: center;
+    padding: 15px;
+    border-radius: 50px;
+    color: #fff;
+    text-transform: uppercase;
+}
+/*Footer*/
+.fond_footer7 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom7 {
+    color: white;
+}
+.mailto7 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet7 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe7 p {
+    color: white;
+    text-decoration: underline;
+}
