@@ -29,7 +29,7 @@ body {
 }
 .titre_projet p {
     position: absolute;
-    top: 23px;
+    top: 13px;
     right: 138px;
     color: white;
 }
@@ -41,30 +41,32 @@ body {
 }
 
 /*Haut image*/
-.debut .class img {
+.class img {
     position: absolute;
     top: 100px;
     opacity: 46%;
 }
-.debut p {
+.present p {
     position: absolute;
-    top: 320px;
+    top: 330px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.debut .machine img {
+
+/*Deuxième partie*/
+.machine img {
     position: absolute;
     top: 620px;
     opacity: 46%;
 }
-.debut h1 {
+.contact-moi p {
     position: absolute;
-    top: 620px;
+    top: 630px;
     color: white;
     margin-left: 69px;
     text-align: center;
 }
-.debut .edit img {
+.edit img {
     position: absolute;
     top: 720px;
     margin-left: 156.12px;

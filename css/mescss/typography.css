@@ -9,9 +9,14 @@ body {
     line-height: 1.6;
     margin: 0 20px;
 }
-
-a {
+ul>li>a {
     font-size: 20px;
+    font-family: 'Habibi', serif;
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
+}
+a {
     font-family: 'Habibi', serif;
     font-weight: normal;
     text-decoration: none;
@@ -533,21 +538,17 @@ h2 {
 /*À propos*/
 
 /*Haut*/
-.debut p {
+.present p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 15px;
 }
-.debut h1 {
-    font-family: 'Habibi', serif;
-    font-weight: normal;
+
+/*Deuxième partie*/
+.contact-moi p {
     font-size: 40px;
 }
 
-/*Formulaire de contact*/
-* {
-    font-family: 'Roboto', serif;
-}
 
 
 /*Footer*/
