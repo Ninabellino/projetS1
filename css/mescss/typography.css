@@ -560,15 +560,6 @@ h2 {
 
 
 /*Footer*/
-.nom_prenom {
-    font-size: 12px;
-}
-.mailto p {
-    font-size: 12px;
-}
-.projet {
-    font-size: 12px;
-}
-.mmi_montbe p {
+footer{
     font-size: 12px;
 }
