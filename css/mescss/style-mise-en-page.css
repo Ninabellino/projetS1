@@ -31,6 +31,118 @@ header {
     top: -150px;
 }
 
+/*--------------------------------- ACCUEIL ---------------------------------*/
+/*Images du haut*/
+.image1 img{
+    position: absolute;
+    top: 100px;
+}
+.intro {
+    position: absolute;
+    top: 436px;
+    right: 18px;
+}
+.intro2 {
+    position: absolute;
+    top: 533px;
+    right: 18px;
+}
+.image2 {
+    position: absolute;
+    top: 615px;
+    right: 20px;
+}
+/*Article 1*/
+.image3 {
+    position: absolute;
+    top: 811px;
+    right: 0;
+}
+.rect_titre1 {
+    position: absolute;
+    top: 1164px;
+}
+.title1 {
+    position: absolute;
+    top: 1180px;
+    left: 9.42px;
+    right: 95px;
+}
+.fleche1 {
+    position: absolute;
+    top: 1370px;
+    left: 290px;
+}
+/*Article 2*/
+.image4 {
+    position: absolute;
+    top: 1465px;
+    right: 0;
+}
+.rect_titre2 {
+    position: absolute;
+    top: 1827px;
+}
+.title2 {
+    position: absolute;
+    top: 1835px;
+    left: 4px;
+    right: 65px;
+}
+.fleche2 {
+    position: absolute;
+    top: 2033px;
+    left: 290px;
+}
+/*Article3*/
+.image5 {
+    position: absolute;
+    top: 2125px;
+    right: 0;
+}
+.rect_titre3 {
+    position: absolute;
+    top: 2491px;
+}
+.title3 {
+    position: absolute;
+    top: 2490px;
+    left: 9px;
+    right: 90px;
+}
+.fleche3 {
+    position: absolute;
+    top: 2697px;
+    left: 290px;
+}
+/*Footer*/
+.fond_footer1 {
+    position: absolute;
+    top: 2785px;
+    height: 143px;
+    width: 375px;
+}
+.nom_prenom1 {
+    position: absolute;
+    top: 2785px;
+    left: 19px;
+}
+.mailto1 p {
+    position: absolute;
+    top: 2785px;
+    left: 225px;
+}
+.projet1 {
+    position: absolute;
+    top: 2830px;
+}
+.mmi_montbe1 p {
+    position: absolute;
+    top: 2880px;
+    left: 136px;
+}
+
+
 /*--------------------------------- CODE POURSUITE ---------------------------------*/
 /*Images du haut*/
 .haut-image img{

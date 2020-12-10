@@ -16,6 +16,66 @@ body {
     margin-left: 140px;
 }
 
+
+/*--------------------------------- ACCUEIL ---------------------------------*/
+/*Images du haut*/
+.intro {
+    color: white;
+    text-align: center;
+}
+.intro2 {
+    color: white;
+    text-align: center;
+}
+/*Article 1*/
+.rect_titre1 {
+    margin: 0;
+}
+.title1 {
+    text-align: center;
+    line-height: 25px;
+}
+/*Article 2*/
+.rect_titre2 {
+    margin: 0;
+}
+.title2 {
+    text-align: center;
+    line-height: 25px;
+}
+/*Article3*/
+.image5 {
+    margin-bottom: -15px;
+}
+.rect_titre3 {
+    margin: 0;
+}
+.title3 {
+    text-align: center;
+    line-height: 25px;
+}
+/*Footer*/
+.fond_footer1 {
+    background-color: #010326;
+    margin: 0;
+}
+.nom_prenom1 {
+    color: white;
+}
+.mailto1 p {
+    color: white;
+    text-decoration: underline;
+}
+.projet1 {
+    text-align: center;
+    color: white;
+}
+.mmi_montbe1 p {
+    color: white;
+    text-decoration: underline;
+}
+
+
 /*--------------------------------- CODE POURSUITE ---------------------------------*/
 /*Images du haut*/
 .rect-marine {
