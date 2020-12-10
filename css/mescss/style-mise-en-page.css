@@ -488,20 +488,17 @@ li.carousel-items{
     position: absolute;
     top: 3608px;
 }
-.part5 .vid-inter img {
-    top: 3745px;
+.part5 .vid-inter video {
+    top: 3665px;
     position: absolute;
 }
-.part5 .play img {
-    top: 3920px;
-    position: absolute;
-}
+
 /*Bouton cliquable*/
 .bbt {
     position: absolute;
     height: 72px;
     width: 296px;
-    top: 4250px;
+    top: 4130px;
 }
 .bbt .tex-clic1_1 p {
     top: 14px;
@@ -514,27 +511,27 @@ li.carousel-items{
 /*Footer*/
 .fond_footer3 {
     position: absolute;
-    top: 4380px;
+    top: 4235px;
     height: 143px;
     width: 375px;
 }
 .nom_prenom3 {
     position: absolute;
-    top: 4385px;
+    top: 4245px;
     left: 19px;
 }
 .mailto3 p {
     position: absolute;
-    top: 4385px;
+    top: 4245px;
     left: 225px;
 }
 .projet3 {
     position: absolute;
-    top: 4430px;
+    top: 4290px;
 }
 .mmi_montbe3 p {
     position: absolute;
-    top: 4480px;
+    top: 4345px;
     left: 136px;
 }
 
