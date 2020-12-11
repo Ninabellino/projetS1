@@ -102,6 +102,9 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
+.partie1 .texte1 blockquote{
+    margin: 0;
+}
 /*Partie 2*/
 .partie2 .img3 img{
     box-shadow: #777 0 15px 10px -8px;

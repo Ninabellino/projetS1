@@ -169,7 +169,7 @@ header {
 }
 .partie1 h1 {
     position: relative;
-    top: -420px;
+    top: -425px;
 }
 .partie1 p{
     position: absolute;
@@ -185,6 +185,10 @@ header {
     position: absolute;
     top: 765px;
 }
+.partie1 .texte1>p {
+    position: absolute;
+    top: 815px;
+}
 
 /*Partie 2*/
 .partie2 .img3 img{
@@ -199,13 +203,13 @@ header {
 }
 .partie2>p {
     position: absolute;
-    top: 1325px;
+    top: 1345px;
 }
 
 /*Partie 3*/
 .partie3 .img4 img{
     position: absolute;
-    top: 1760px;
+    top: 1750px;
 }
 .partie3 .img4 p{
     position: absolute;
@@ -215,11 +219,11 @@ header {
 }
 .partie3 h2 {
     position: relative;
-    top: 1030px;
+    top: 1020px;
 }
 .partie3>p {
     position: absolute;
-    top: 2060px;
+    top: 2070px;
 }
 
 /* Partie 4*/
@@ -241,7 +245,7 @@ header {
 }
 .partie4>p {
     position: absolute;
-    top: 2830px;
+    top: 2840px;
 }
 .partie4 .img6 img{
     position: absolute;
@@ -257,7 +261,7 @@ header {
 /*Bande annonce*/
 .bande_annonce h3 {
     position: absolute;
-    top: 3360px;
+    top: 3390px;
 }
 .bande_annonce .video {
     position: absolute;
@@ -268,7 +272,7 @@ header {
 /*Galerie*/
 .galerie h3 {
     position: absolute;
-    top: 3645px;
+    top: 3665px;
 }
 .galerie .back_galerie {
     position: absolute;
@@ -845,7 +849,7 @@ li.carousel-items{
     top: 3900px;
 }
 .boubou .tex-clic-as1 p {
-    top: 14px;
+    top: 20px;
     position: relative;
 }
 /*Footer*/

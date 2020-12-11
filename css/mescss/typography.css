@@ -86,6 +86,12 @@ a {
     font-weight: normal;
     font-size: 9px;
 }
+.partie2 p{
+    font-family: 'Roboto', serif;
+    font-weight: normal;
+    line-height: 25px;
+    font-size: 15px;
+}
 
 /*Partie 3*/
 .partie3 .img4 p{
@@ -365,7 +371,7 @@ h2 {
     line-height: 25px;
     font-size: 15px;
 }
-.parg5>p{
+.par5>p{
     font-family: 'Roboto', serif;
     font-weight: normal;
     line-height: 25px;
@@ -545,19 +551,16 @@ h2 {
 
 
 /*À propos*/
-
 /*Haut*/
 .present p {
     font-family: 'Roboto', serif;
     font-weight: normal;
     font-size: 15px;
 }
-
 /*Deuxième partie*/
 .contact-moi p {
     font-size: 40px;
 }
-
 
 /*Footer*/
 footer{
