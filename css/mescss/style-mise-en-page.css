@@ -173,21 +173,21 @@ header {
 }
 .partie1 p{
     position: absolute;
-    top: 579px;
+    top: 590px;
     right: 1px;
 }
 .partie1 h2 {
     position: absolute;
-    top: 685px;
+    top: 700px;
     right: 2px;
 }
 .partie1 .texte1 p {
     position: absolute;
-    top: 765px;
+    top: 780px;
 }
 .partie1 .texte1>p {
     position: absolute;
-    top: 815px;
+    top: 830px;
 }
 
 /*Partie 2*/
@@ -396,7 +396,7 @@ li.carousel-items{
 }
 .part1 h1 {
     position: absolute;
-    top: 739px;
+    top: 725px;
 }
 .part1 .sous-titre2 p {
     position: absolute;
@@ -560,7 +560,7 @@ li.carousel-items{
 /*Partie 1*/
 .par1 h1 {
     position: absolute;
-    top: 345px;
+    top: 335px;
 }
 .par1 .sous-titre3_1 {
     position: absolute;

@@ -59,7 +59,7 @@ a {
 }
 .partie1 h1{
     font-weight: normal;
-    font-size: 18px;
+    font-size: 22px;
 }
 .partie1 p {
     font-family: 'Roboto', serif;
@@ -168,7 +168,7 @@ a {
 /*Paragraphe 1*/
 .part1 h1 {
     font-weight: normal;
-    font-size: 18px;
+    font-size: 22px;
 }
 .part1 .sous-titre2 p {
     font-family: 'Roboto', serif;
@@ -280,7 +280,7 @@ h2 {
 
 /*Paragraphe 1*/
 .par1 h1{
-    font-size: 18px;
+    font-size: 22px;
     font-weight: normal;
 }
 .par1 .sous-titre3_1 {
