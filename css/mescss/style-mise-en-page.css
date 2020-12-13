@@ -219,7 +219,7 @@ header {
 }
 .partie3 h2 {
     position: relative;
-    top: 1020px;
+    top: 1010px;
 }
 .partie3>p {
     position: absolute;
@@ -839,7 +839,7 @@ li.carousel-items{
 /*Lien article*/
 .lien-art p {
     position: absolute;
-    top: 3800px;
+    top: 3830px;
 }
 /*Bouton cliquable*/
 .boubou {
